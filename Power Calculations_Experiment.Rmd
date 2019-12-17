@@ -1,0 +1,127 @@
+---
+title: "Appendix D: Power Calculations for W241 Project"
+author: "Venky, Christine, Jason"
+date: "12/16/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(data.table)
+library(pwr)
+library(ggplot2)
+```
+
+# Power calculations for the Experiment only, Trial calculations are not included.  
+  
+## Reading data
+```{r cars}
+# Reading data set to include both Trial and Experiment
+all_test <- fread('/Users/jasonabaker/W241/Final_Project/Data/Post_Experiment_Results.csv')
+
+# Subsetting observations that were in the Experiment, Complied with the Treatment, Had valid test scores, and were from "Vijayawada, India".
+ex_sub <- all_test[which(all_test$`Study Phase` == 'experiment' & all_test$`Treatment Outcome (Participated = 1, DNP = 0)` == 1 & all_test$Score_diff != 'NA' & all_test$Location == 'Vijayawada, India')]
+```
+  
+  
+## Subsetting _ex_sub_ into "Gaming", "Music", and "Reading".
+```{r}
+ex_1_game <- ex_sub[which(ex_sub$`Test Description` == "Gaming"),]
+ex_1_music <- ex_sub[which(ex_sub$`Test Description` == "Reading"),]
+ex_1_read <- ex_sub[which(ex_sub$`Test Description` == "Music"),]
+```
+  
+  
+## Calculate the overall mean and store it in a variable called grand_mean.
+```{r}
+grand_mean_1 <- round(mean(ex_sub$Score_diff), 2)
+```
+Grand Mean: `r grand_mean_1`  
+  
+  
+## Calculating the mean score difference for each group.
+```{r}
+game_average_1 <- round(mean(ex_1_game$Score_diff),2)
+music_average_1 <- round(mean(ex_1_music$Score_diff),2)
+read_average_1 <- round(mean(ex_1_read$Score_diff),2)
+```
+Gaming Average:  `r game_average_1`  
+Music Average:  `r music_average_1`  
+Reading Average:  `r read_average_1`  
+  
+  
+## Calculating the sample size of each group.
+```{r}
+sample_game_1 <- nrow(ex_1_game)
+sample_music_1 <- nrow(ex_1_music)
+sample_read_1 <- nrow(ex_1_read)
+```
+Gaming Sample Size: `r sample_game_1`  
+Music Sample Size: `r sample_music_1`  
+Reading Sample Size: `r sample_read_1`  
+  
+
+## Calculate the Between Group Variance
+```{r}
+between_group_variance_1 <- (sample_game_1 * (game_average_1 - grand_mean_1)^2 + sample_music_1 * (music_average_1 - grand_mean_1)^2 + sample_read_1 * (read_average_1 - grand_mean_1)^2) / 2
+```
+Between group variance: `r between_group_variance_1`  
+  
+  
+## Calculate sum of squares for each group  
+  + Used in _within_ _group_ _variance_
+```{r}
+sum_squares_game_1 <- sum((ex_1_game$Score_diff - game_average_1)^2) 
+sum_squares_music_1 <- sum((ex_1_music$Score_diff - music_average_1)^2) 
+sum_squares_read_1 <- sum((ex_1_read$Score_diff - read_average_1)^2) 
+```
+Gaming Sum of Squares:  `r sum_squares_game_1`  
+Music Sum of Squares:  `r sum_squares_music_1`  
+Reading Sum of Squares:  `r sum_squares_read_1`  
+  
+  
+## Calculate the Within Group Variance
+```{r}
+within_group_variance_1 <- round((sum_squares_game_1 + sum_squares_music_1 + sum_squares_read_1) / (nrow(ex_sub) - 3), 0)
+```
+Within group variance: `r within_group_variance_1`  
+
+
+# Power calculation  
+
+## Power calculation (ANOVA) for current variances and sample sizes
+```{r}
+s_1 <- power.anova.test(groups = 3,
+                        between.var = between_group_variance_1, within.var = within_group_variance_1,
+                        power = NULL, sig.level = 0.05, n = 120.6)
+s_1
+```
+  
+  
+  
+# Iterated Power Calculation  
+**We iterated through the power calculation to derive an understanding of our power relative to sample size.**  
+  
+## Setting n to loop through ANOVA calculation
+```{r}
+n_1 <- c(seq(2,10,by=1),seq(12,20,by=2),seq(25,200,by=25))
+```
+  
+  
+## Iterated power calculation
+```{r}
+p_1 <- power.anova.test(groups = 3,
+                        between.var = between_group_variance_1, within.var = within_group_variance_1,
+                        power = NULL, sig.level = 0.05, n=n_1)
+```
+
+
+```{r, echo=FALSE}
+## Plotting power calculation  
+plot(n_1,p_1$power, main = "One-way ANOVA Power", xlab = "Number of Observations", ylab = "Power")
+abline(h = 0.8, v=121, col=c("blue","red"), lty=c(2,1), lwd=c(0.5,2))
+#abline(v=c(13,450), col=c("red","blue"), lty=c(1,2), lwd=c(1,2))
+```
+
+
