@@ -1,0 +1,513 @@
+﻿Participant Email,Study Phase,Test Description,Pre Score,"Treatment Outcome (Participated = 1, DNP = 0)",Post Score,Total Time Spent in PreTest (seconds),Total Time Spent in Treatment (seconds),Total Time Spent in Post Test (seconds),Time of Day Test Taken,DTG,Local DTG,Time of Day Cat,Location,Gender,Grade (or Age),Score_diff
+vinceluskinsr@gmail.com,experiment,Music,17,1,15,602,1802,603,Wed 4th Dec 2019 2:18pm,12/4/19 2:18 PM,12/4/19 2:18 PM,Afternoon,PA,Male,58,-2
+jennel79@gmail.com,experiment,Gaming,22,1,38,602,1828,602,Thu 5th Dec 2019 5:45pm,12/5/19 5:45 PM,12/5/19 5:45 PM,Evening,PA,Female,40,16
+m.brindley79@gmail.com,experiment,Reading,25,0,35,602,694,602,Thu 5th Dec 2019 5:52am,12/5/19 5:52 AM,12/5/19 5:52 AM,Morning,NH,Female,39,10
+c1cs1@stjohns.edu,experiment,Gaming,9,0,0,262,164,79,Sat 7th Dec 2019 1:27am,12/7/19 1:27 AM,12/7/19 2:57 PM,Afternoon,"Vijayawada, India",,,-9
+c19bb18@stjohns.edu,experiment,Gaming,10,1,8,603,1802,183,Sun 8th Dec 2019 7:57pm,12/8/19 7:57 PM,12/9/19 9:27 AM,Morning,"Vijayawada, India",Male,9,-2
+c19bb20@stjohns.edu,experiment,Gaming,12,1,13,525,1803,415,Sun 8th Dec 2019 7:57pm,12/8/19 7:57 PM,12/9/19 9:27 AM,Morning,"Vijayawada, India",Male,9,1
+c19bb6@stjohns.edu,experiment,Gaming,11,1,25,602,1801,589,Sun 8th Dec 2019 7:57pm,12/8/19 7:57 PM,12/9/19 9:27 AM,Morning,"Vijayawada, India",Male,9,14
+c19bb@stjohns.edu,experiment,Gaming,#N/A,0,4,#N/A,24,603,Sun 8th Dec 2019 7:58pm,12/8/19 7:58 PM,12/9/19 9:28 AM,Morning,"Vijayawada, India",Male,9,#N/A
+c19bb10@stjohns.edu,experiment,Gaming,13,1,25,602,1802,603,Sun 8th Dec 2019 7:58pm,12/8/19 7:58 PM,12/9/19 9:28 AM,Morning,"Vijayawada, India",Male,9,12
+c19bb12@st.johns.edu,experiment,Gaming,19,0,21,543,15,480,Sun 8th Dec 2019 7:59pm,12/8/19 7:59 PM,12/9/19 9:29 AM,Morning,"Vijayawada, India",Male,9,2
+c19bb16@stjohns.edu,experiment,Gaming,10,0,15,602,21,602,Sun 8th Dec 2019 7:59pm,12/8/19 7:59 PM,12/9/19 9:29 AM,Morning,"Vijayawada, India",Male,9,5
+c19bb4@stjohns.com,experiment,Gaming,8,1,17,602,1803,602,Sun 8th Dec 2019 7:59pm,12/8/19 7:59 PM,12/9/19 9:29 AM,Morning,"Vijayawada, India",Male,9,9
+c19bb1@stjohns.edu,experiment,Gaming,5,1,16,603,1801,587,Sun 8th Dec 2019 8:00pm,12/8/19 8:00 PM,12/9/19 9:30 AM,Morning,"Vijayawada, India",Male,9,11
+c19bb3@stjohns.edu,experiment,Gaming,16,1,15,604,1802,602,Sun 8th Dec 2019 8:00pm,12/8/19 8:00 PM,12/9/19 9:30 AM,Morning,"Vijayawada, India",Male,9,-1
+cb19bb11@stjohns.edu,experiment,Gaming,20,1,#N/A,602,897,#N/A,Sun 8th Dec 2019 8:00pm,12/8/19 8:00 PM,12/9/19 9:30 AM,Morning,"Vijayawada, India",Male,9,#N/A
+c19bg12@stjohns.edu,experiment,Gaming,7,1,10,603,1803,602,Sun 8th Dec 2019 8:03pm,12/8/19 8:03 PM,12/9/19 9:33 AM,Morning,"Vijayawada, India",Female,9,3
+c19bg@stjohns.edu,experiment,Gaming,#N/A,0,#N/A,#N/A,25,#N/A,Sun 8th Dec 2019 8:04pm,12/8/19 8:04 PM,12/9/19 9:34 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19bg2@stjohns.edu,experiment,Gaming,11,1,19,603,1158,602,Sun 8th Dec 2019 8:05pm,12/8/19 8:05 PM,12/9/19 9:35 AM,Morning,"Vijayawada, India",Female,9,8
+c19bb17@stjohns.edu,experiment,Gaming,4,0,5,602,16,602,Sun 8th Dec 2019 8:08pm,12/8/19 8:08 PM,12/9/19 9:38 AM,Morning,"Vijayawada, India",Male,9,1
+c19bb8@stjohns.edu,experiment,Gaming,20,0,29,602,17,519,Sun 8th Dec 2019 8:09pm,12/8/19 8:09 PM,12/9/19 9:39 AM,Morning,"Vijayawada, India",Male,9,9
+c19bg1@stjohns.edu,experiment,Gaming,#N/A,1,14,#N/A,1802,450,Sun 8th Dec 2019 8:09pm,12/8/19 8:09 PM,12/9/19 9:39 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19bg15@stjohns.edc,experiment,Gaming,11,0,10,602,31,602,Sun 8th Dec 2019 8:09pm,12/8/19 8:09 PM,12/9/19 9:39 AM,Morning,"Vijayawada, India",Female,9,-1
+c19bb7@stjohns.edu,experiment,Gaming,10,1,14,187,1802,500,Sun 8th Dec 2019 8:11pm,12/8/19 8:11 PM,12/9/19 9:41 AM,Morning,"Vijayawada, India",Male,9,4
+c19bb15@stjohns.edu,experiment,Gaming,10,1,12,602,1802,602,Sun 8th Dec 2019 8:13pm,12/8/19 8:13 PM,12/9/19 9:43 AM,Morning,"Vijayawada, India",Male,9,2
+ci9bg8@stjohns.edu,experiment,Gaming,9,0,#N/A,603,0,#N/A,Sun 8th Dec 2019 8:16pm,12/8/19 8:16 PM,12/9/19 9:46 AM,Morning,"Vijayawada, India",Male,9,#N/A
+c19ib5@stjohns.edu,experiment,Gaming,13,1,20,602,1802,541,Sun 8th Dec 2019 8:18pm,12/8/19 8:18 PM,12/9/19 9:48 AM,Morning,"Vijayawada, India",Male,9,7
+c19bb5@stjohns.edu,experiment,Gaming,16,1,16,516,1423,419,Sun 8th Dec 2019 8:19pm,12/8/19 8:19 PM,12/9/19 9:49 AM,Morning,"Vijayawada, India",Male,9,0
+c19bg14@stjohns.edu,experiment,Gaming,18,0,19,603,889,369,Sun 8th Dec 2019 8:35pm,12/8/19 8:35 PM,12/9/19 10:05 AM,Morning,"Vijayawada, India",Female,9,1
+c19bg4@stjohns.edu,experiment,Gaming,14,1,14,348,1801,239,Sun 8th Dec 2019 8:35pm,12/8/19 8:35 PM,12/9/19 10:05 AM,Morning,"Vijayawada, India",Female,9,0
+kotesh0002@gmail.com,experiment,Music,16,0,0,127,133,0,Sun 8th Dec 2019 8:42pm,12/8/19 8:42 PM,12/9/19 10:12 AM,Morning,"Vijayawada, India",,,-16
+c19bg5@stjonhs.edu,experiment,Gaming,16,1,13,602,1803,602,Sun 8th Dec 2019 8:45pm,12/8/19 8:45 PM,12/9/19 10:15 AM,Morning,"Vijayawada, India",Female,9,-3
+c19bg10@stjohns.edu,experiment,Gaming,10,0,8,602,217,603,Sun 8th Dec 2019 8:47pm,12/8/19 8:47 PM,12/9/19 10:17 AM,Morning,"Vijayawada, India",Female,9,-2
+c19bg13@stjohns.edu,experiment,Gaming,#N/A,1,16,#N/A,1803,501,Sun 8th Dec 2019 8:59pm,12/8/19 8:59 PM,12/9/19 10:29 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19bg7@stjohns.edu,experiment,Gaming,13,1,19,432,1802,562,Sun 8th Dec 2019 8:59pm,12/8/19 8:59 PM,12/9/19 10:29 AM,Morning,"Vijayawada, India",Female,9,6
+c19bg9@stjohns.edu,experiment,Gaming,11,1,7,603,1802,602,Sun 8th Dec 2019 9:01pm,12/8/19 9:01 PM,12/9/19 10:31 AM,Morning,"Vijayawada, India",Female,9,-4
+c19bg3@stjohns.edu,experiment,Gaming,11,1,#N/A,603,1801,#N/A,Sun 8th Dec 2019 9:02pm,12/8/19 9:02 PM,12/9/19 10:32 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19bg8@stjohns.edu,experiment,Gaming,18,1,17,582,1801,602,Sun 8th Dec 2019 9:14pm,12/8/19 9:14 PM,12/9/19 10:44 AM,Morning,"Vijayawada, India",Female,9,-1
+c19bg6@stjohns.edu,experiment,Gaming,14,1,17,278,1801,457,Sun 8th Dec 2019 9:22pm,12/8/19 9:22 PM,12/9/19 10:52 AM,Morning,"Vijayawada, India",Female,9,3
+c19bg15@stjohns.edu,experiment,Gaming,18,0,14,403,12,490,Sun 8th Dec 2019 9:26pm,12/8/19 9:26 PM,12/9/19 10:56 AM,Morning,"Vijayawada, India",Female,9,-4
+c19cb7@stjohns.edu,experiment,Gaming,17,1,23,602,1802,602,Sun 8th Dec 2019 9:51pm,12/8/19 9:51 PM,12/9/19 11:21 AM,Morning,"Vijayawada, India",Male,9,6
+c19cb8@stjohns.edu,experiment,Gaming,16,1,15,602,1802,603,Sun 8th Dec 2019 9:51pm,12/8/19 9:51 PM,12/9/19 11:21 AM,Morning,"Vijayawada, India",Male,9,-1
+c19cb1@stjohns.edu,experiment,Gaming,10,1,16,602,1801,603,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,6
+c19cb10@stjohns.edu,experiment,Gaming,7,0,8,602,0,192,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,1
+c19cb11@stjohns.edu,experiment,Gaming,12,1,17,604,1802,602,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,5
+c19cb13@st.johns.edu,experiment,Gaming,6,1,10,603,1802,603,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,4
+c19cb2@stjohns.edu,experiment,Gaming,10,1,7,603,1802,101,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,-3
+c19cb4@st.johns.edu,experiment,Gaming,#N/A,1,22,#N/A,1800,562,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,#N/A
+c19cb9@stjohns.edu,experiment,Gaming,10,1,20,603,1801,602,Sun 8th Dec 2019 9:52pm,12/8/19 9:52 PM,12/9/19 11:22 AM,Morning,"Vijayawada, India",Male,9,10
+c19cb3@stjohns.edu,experiment,Gaming,15,1,20,522,1802,437,Sun 8th Dec 2019 9:53pm,12/8/19 9:53 PM,12/9/19 11:23 AM,Morning,"Vijayawada, India",Male,9,5
+c19cb5@stjohns.edu,experiment,Gaming,15,1,14,550,1802,530,Sun 8th Dec 2019 9:53pm,12/8/19 9:53 PM,12/9/19 11:23 AM,Morning,"Vijayawada, India",Male,9,-1
+c19cb6@stjohns.edu,experiment,Gaming,17,1,18,603,1801,522,Sun 8th Dec 2019 9:53pm,12/8/19 9:53 PM,12/9/19 11:23 AM,Morning,"Vijayawada, India",Male,9,1
+c19ag1@stjohns.edu,experiment,Gaming,13,1,15,603,1802,598,Sun 8th Dec 2019 9:54pm,12/8/19 9:54 PM,12/9/19 11:24 AM,Morning,"Vijayawada, India",Female,9,2
+c19ag4@stjohns.edu,experiment,Gaming,10,1,#N/A,603,1802,#N/A,Sun 8th Dec 2019 9:54pm,12/8/19 9:54 PM,12/9/19 11:24 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19ag2@stjohns.edu,experiment,Gaming,#N/A,1,15,#N/A,1803,391,Sun 8th Dec 2019 9:55pm,12/8/19 9:55 PM,12/9/19 11:25 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19ag3@stjohns.edu,experiment,Gaming,11,1,19,603,1803,602,Sun 8th Dec 2019 9:55pm,12/8/19 9:55 PM,12/9/19 11:25 AM,Morning,"Vijayawada, India",Female,9,8
+c19cb16@stjohns.edu,experiment,Gaming,11,1,17,602,1803,603,Sun 8th Dec 2019 9:55pm,12/8/19 9:55 PM,12/9/19 11:25 AM,Morning,"Vijayawada, India",Male,9,6
+c19ag6@stjohns.edu,experiment,Gaming,7,1,17,602,1801,603,Sun 8th Dec 2019 9:58pm,12/8/19 9:58 PM,12/9/19 11:28 AM,Morning,"Vijayawada, India",Female,9,10
+c19ag8@stjohns.edu,experiment,Gaming,5,1,11,603,1802,602,Sun 8th Dec 2019 9:58pm,12/8/19 9:58 PM,12/9/19 11:28 AM,Morning,"Vijayawada, India",Female,9,6
+c19dg13@stjohns.edu,experiment,Music,18,1,13,572,1803,449,Mon 9th Dec 2019 1:01am,12/9/19 1:01 AM,12/9/19 2:31 PM,Afternoon,"Vijayawada, India",Female,9,-5
+c19dg6@stjohns.edu,experiment,Music,22,1,20,569,1802,502,Mon 9th Dec 2019 1:01am,12/9/19 1:01 AM,12/9/19 2:31 PM,Afternoon,"Vijayawada, India",Female,9,-2
+c19dg11@stjohns.edu,experiment,Music,11,1,13,602,1802,581,Mon 9th Dec 2019 1:02am,12/9/19 1:02 AM,12/9/19 2:32 PM,Afternoon,"Vijayawada, India",Female,9,2
+c19dg16@stjohns.edu,experiment,Music,25,1,22,602,1802,545,Mon 9th Dec 2019 1:02am,12/9/19 1:02 AM,12/9/19 2:32 PM,Afternoon,"Vijayawada, India",Female,9,-3
+c19dg4@stjohns.edu,experiment,Music,8,1,18,603,1802,602,Mon 9th Dec 2019 1:02am,12/9/19 1:02 AM,12/9/19 2:32 PM,Afternoon,"Vijayawada, India",Female,9,10
+c19dg@stjohns.edu,experiment,Music,#N/A,1,#N/A,#N/A,1802,#N/A,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,#N/A
+c19dg1@stjohns.edu,experiment,Music,15,1,11,603,1802,544,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,-4
+c19dg10@stjohns.edu,experiment,Music,15,1,20,602,1802,551,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,5
+c19dg14@stjohns.edu,experiment,Music,7,1,9,603,1794,602,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,2
+c19dg18@stjohns.edu,experiment,Music,9,1,13,603,1802,603,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,4
+c19dg2@stjohns.edu,experiment,Music,12,1,18,603,1802,518,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,6
+c19dg9@stjohns.edu,experiment,Music,9,1,10,583,1803,487,Mon 9th Dec 2019 1:03am,12/9/19 1:03 AM,12/9/19 2:33 PM,Afternoon,"Vijayawada, India",Female,9,1
+c19dg15@stjohns.edu,experiment,Music,12,1,15,602,1803,519,Mon 9th Dec 2019 1:04am,12/9/19 1:04 AM,12/9/19 2:34 PM,Afternoon,"Vijayawada, India",Female,9,3
+c19dg7@stjohns.edu,experiment,Music,12,1,17,538,1802,485,Mon 9th Dec 2019 1:04am,12/9/19 1:04 AM,12/9/19 2:34 PM,Afternoon,"Vijayawada, India",Female,9,5
+c19dg5@stjohns.edu,experiment,Music,6,1,11,602,1661,602,Mon 9th Dec 2019 1:06am,12/9/19 1:06 AM,12/9/19 2:36 PM,Afternoon,"Vijayawada, India",Female,9,5
+c19cg12@stjohns.edu,experiment,Gaming,11,1,14,560,1802,218,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,3
+c19cg2@st.johns.edu,experiment,Gaming,8,1,14,602,1802,339,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,6
+c19cg5@st.johnsedu,experiment,Gaming,10,1,11,592,1804,466,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,1
+c19cg6@stjohns.edu,experiment,Gaming,4,1,14,602,1803,125,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,10
+c19cg7@stjohns.edu,experiment,Gaming,8,1,6,601,1804,450,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,-2
+c19cg8@stjohns.edu,experiment,Gaming,10,1,14,602,1803,129,Mon 9th Dec 2019 1:13am,12/9/19 1:13 AM,12/9/19 2:43 PM,Afternoon,"Vijayawada, India",Female,9,4
+rrohiniravikumar@gmail.co.in,experiment,Gaming,#N/A,0,0,#N/A,13,0,Mon 9th Dec 2019 1:15am,12/9/19 1:15 AM,12/9/19 2:45 PM,Afternoon,"Vijayawada, India",,,#N/A
+c19cg14@stjohns.edu,experiment,Gaming,10,0,18,604,31,603,Mon 9th Dec 2019 1:16am,12/9/19 1:16 AM,12/9/19 2:46 PM,Afternoon,"Vijayawada, India",Female,9,8
+c19cg9@stjohns.edu,experiment,Gaming,16,1,12,504,1803,256,Mon 9th Dec 2019 1:16am,12/9/19 1:16 AM,12/9/19 2:46 PM,Afternoon,"Vijayawada, India",Female,9,-4
+c19cg1@stjohns.edu,experiment,Gaming,14,1,10,602,1801,602,Mon 9th Dec 2019 1:19am,12/9/19 1:19 AM,12/9/19 2:49 PM,Afternoon,"Vijayawada, India",Female,9,-4
+c19cg13@stjohns.edu,experiment,Gaming,7,1,15,602,1804,308,Mon 9th Dec 2019 1:21am,12/9/19 1:21 AM,12/9/19 2:51 PM,Afternoon,"Vijayawada, India",Female,9,8
+c2xb24@stjohns.edu,experiment,Music,10,1,14,602,1802,601,Mon 9th Dec 2019 1:23am,12/9/19 1:23 AM,12/9/19 2:53 PM,Afternoon,"Vijayawada, India",Male,10,4
+c2xb14@stjohns.edu,experiment,Music,13,1,14,602,1801,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,1
+c2xb16@stjohns.edu,experiment,Music,11,1,12,602,1802,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,1
+c2xb17@stjohns.edu,experiment,Music,3,1,9,603,1802,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,6
+c2xb19@stjohns.edu,experiment,Music,7,1,15,602,1804,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,8
+c2xb20@stjhons.edu,experiment,Music,10,1,14,574,1785,577,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,4
+c2xb21@stjohns.edu,experiment,Music,9,1,15,601,1751,601,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,6
+c2xb23@stjohns.edu,experiment,Music,17,1,16,601,1742,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,-1
+c2xb25@stjohns.edu,experiment,Music,10,1,15,602,1763,602,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,5
+czxb22@stjohns.edu,experiment,Music,#N/A,1,#N/A,#N/A,1751,#N/A,Mon 9th Dec 2019 1:25am,12/9/19 1:25 AM,12/9/19 2:55 PM,Afternoon,"Vijayawada, India",Male,10,#N/A
+c2xb15@stjohns.edu,experiment,Music,16,1,#N/A,603,1733,#N/A,Mon 9th Dec 2019 1:26am,12/9/19 1:26 AM,12/9/19 2:56 PM,Afternoon,"Vijayawada, India",Male,10,#N/A
+c2xb26@stjohns.edu,experiment,Music,16,1,13,602,1802,602,Mon 9th Dec 2019 1:26am,12/9/19 1:26 AM,12/9/19 2:56 PM,Afternoon,"Vijayawada, India",Male,10,-3
+c2xb18@stjohns.edu,experiment,Music,10,1,14,601,1743,603,Mon 9th Dec 2019 1:27am,12/9/19 1:27 AM,12/9/19 2:57 PM,Afternoon,"Vijayawada, India",Male,10,4
+c19cg11@stjohns.edu,experiment,Gaming,13,1,17,602,1804,519,Mon 9th Dec 2019 1:37am,12/9/19 1:37 AM,12/9/19 3:07 PM,Evening,"Vijayawada, India",Female,9,4
+c19dg12@stjohns.edu,experiment,Music,20,1,22,602,1781,602,Mon 9th Dec 2019 1:57am,12/9/19 1:57 AM,12/9/19 3:27 PM,Evening,"Vijayawada, India",Female,9,2
+1xbg8@stjohns.edu,experiment,Reading,12,1,18,602,1801,597,Mon 9th Dec 2019 2:02am,12/9/19 2:02 AM,12/9/19 3:32 PM,Evening,"Vijayawada, India",Female,10,6
+c1xbg3@stjohns.edu,experiment,Reading,10,1,9,602,1802,602,Mon 9th Dec 2019 2:03am,12/9/19 2:03 AM,12/9/19 3:33 PM,Evening,"Vijayawada, India",Female,10,-1
+c1xbg2@stjohns.edu,experiment,Reading,12,1,15,602,1801,602,Mon 9th Dec 2019 2:04am,12/9/19 2:04 AM,12/9/19 3:34 PM,Evening,"Vijayawada, India",Female,10,3
+c1xbg6@stjohns.edu,experiment,Reading,4,1,12,602,1774,603,Mon 9th Dec 2019 2:05am,12/9/19 2:05 AM,12/9/19 3:35 PM,Evening,"Vijayawada, India",Female,10,8
+c1xbg4@stjohns.edu,experiment,Reading,5,1,12,603,1745,602,Mon 9th Dec 2019 2:06am,12/9/19 2:06 AM,12/9/19 3:36 PM,Evening,"Vijayawada, India",Female,10,7
+c1xbg11@stjohns.edu,experiment,Reading,11,1,12,601,1585,603,Mon 9th Dec 2019 2:09am,12/9/19 2:09 AM,12/9/19 3:39 PM,Evening,"Vijayawada, India",Female,10,1
+c1xbg13@stjohns.edu,experiment,Reading,17,1,9,600,1631,542,Mon 9th Dec 2019 2:09am,12/9/19 2:09 AM,12/9/19 3:39 PM,Evening,"Vijayawada, India",Female,10,-8
+c1xbg7@stjohns.edu,experiment,Reading,17,1,21,601,1600,566,Mon 9th Dec 2019 2:09am,12/9/19 2:09 AM,12/9/19 3:39 PM,Evening,"Vijayawada, India",Female,10,4
+c1xbg9@stjohns.edu,experiment,Reading,10,1,15,603,1600,602,Mon 9th Dec 2019 2:09am,12/9/19 2:09 AM,12/9/19 3:39 PM,Evening,"Vijayawada, India",Female,10,5
+c1xbg10@stjohns.edu,experiment,Reading,5,1,11,603,1634,603,Mon 9th Dec 2019 2:10am,12/9/19 2:10 AM,12/9/19 3:40 PM,Evening,"Vijayawada, India",Female,10,6
+c1xbg12@stjohns.edu,experiment,Reading,10,1,16,603,1604,602,Mon 9th Dec 2019 2:10am,12/9/19 2:10 AM,12/9/19 3:40 PM,Evening,"Vijayawada, India",Female,10,6
+c1xbg5@stjohns.edu,experiment,Reading,3,1,4,602,1636,601,Mon 9th Dec 2019 2:10am,12/9/19 2:10 AM,12/9/19 3:40 PM,Evening,"Vijayawada, India",Female,10,1
+c1xbb25@stjohns.edu,experiment,Reading,16,1,10,434,1802,379,Mon 9th Dec 2019 2:14am,12/9/19 2:14 AM,12/9/19 3:44 PM,Evening,"Vijayawada, India",Male,10,-6
+c1xbb10@stjohns.edu,experiment,Reading,13,1,15,603,1802,603,Mon 9th Dec 2019 2:16am,12/9/19 2:16 AM,12/9/19 3:46 PM,Evening,"Vijayawada, India",Male,10,2
+c1xbb20@stjohns.edu,experiment,Reading,15,1,12,520,1802,372,Mon 9th Dec 2019 2:16am,12/9/19 2:16 AM,12/9/19 3:46 PM,Evening,"Vijayawada, India",Male,10,-3
+c1xbb6@stjohns.edu,experiment,Reading,23,1,20,602,1803,601,Mon 9th Dec 2019 2:16am,12/9/19 2:16 AM,12/9/19 3:46 PM,Evening,"Vijayawada, India",Male,10,-3
+c1xbb15@stjohns.edu,experiment,Reading,14,1,14,558,1714,563,Mon 9th Dec 2019 2:18am,12/9/19 2:18 AM,12/9/19 3:48 PM,Evening,"Vijayawada, India",Male,10,0
+c1xbb12@stjohns.edu,experiment,Reading,15,1,10,171,1802,557,Mon 9th Dec 2019 2:19am,12/9/19 2:19 AM,12/9/19 3:49 PM,Evening,"Vijayawada, India",Male,10,-5
+c1xbb14@stjohns.edu,experiment,Reading,18,1,9,601,1835,496,Mon 9th Dec 2019 2:19am,12/9/19 2:19 AM,12/9/19 3:49 PM,Evening,"Vijayawada, India",Male,10,-9
+c1xbb18@stjohns.edu,experiment,Reading,16,1,20,500,1801,556,Mon 9th Dec 2019 2:19am,12/9/19 2:19 AM,12/9/19 3:49 PM,Evening,"Vijayawada, India",Male,10,4
+c1xbb5@stjohns.edu,experiment,Reading,13,1,15,458,1802,431,Mon 9th Dec 2019 2:21am,12/9/19 2:21 AM,12/9/19 3:51 PM,Evening,"Vijayawada, India",Male,10,2
+c1xbb16@stjohns.edu,experiment,Reading,12,1,16,164,1722,446,Mon 9th Dec 2019 2:25am,12/9/19 2:25 AM,12/9/19 3:55 PM,Evening,"Vijayawada, India",Male,10,4
+c2xb28@stjohns.edu,experiment,Music,3,1,11,602,1801,602,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Male,10,8
+c2xb29@stjohns.edu,experiment,Music,#N/A,1,#N/A,#N/A,1802,#N/A,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Male,10,#N/A
+c2xg1@st.johns.edu,experiment,Music,5,1,22,602,1802,603,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,17
+c2xg10@stjohns.edu,experiment,Music,12,1,11,603,1802,601,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,-1
+c2xg12@st.johns.edu,experiment,Music,12,1,14,602,1804,602,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,2
+c2xg2@stjohns.edu,experiment,Music,15,1,11,601,1803,602,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,-4
+c2xg3@stjohns.edu,experiment,Music,6,1,8,602,1801,603,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,2
+c2xg4@st.johns.edu,experiment,Music,18,1,18,602,1802,602,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,0
+c2xg5@stjohns.edu,experiment,Music,15,1,13,601,1801,603,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,-2
+c2xg6@stjohns.edu,experiment,Music,10,1,17,602,1802,601,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,7
+c2xg7@st.johns.edu,experiment,Music,9,1,12,601,1802,602,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,3
+c2xg8@stjohns.edu,experiment,Music,12,1,16,602,1802,601,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,4
+c2xg9@stjohns.edu,experiment,Music,20,1,19,601,1801,601,Mon 9th Dec 2019 3:07am,12/9/19 3:07 AM,12/9/19 4:37 PM,Evening,"Vijayawada, India",Female,10,-1
+c19ig1@stjohns.edu,experiment,Gaming,16,1,18,603,1801,603,Mon 9th Dec 2019 7:40pm,12/9/19 7:40 PM,12/10/19 9:10 AM,Morning,"Vijayawada, India",Female,9,2
+c19ig11@stjohns.edu,experiment,Gaming,9,1,11,603,1802,601,Mon 9th Dec 2019 7:41pm,12/9/19 7:41 PM,12/10/19 9:11 AM,Morning,"Vijayawada, India",Female,9,2
+c19ig3@stjohns.edu,experiment,Gaming,2,1,16,602,1802,603,Mon 9th Dec 2019 7:41pm,12/9/19 7:41 PM,12/10/19 9:11 AM,Morning,"Vijayawada, India",Female,9,14
+c19ig5@stjohns.edu,experiment,Gaming,19,1,23,603,1803,628,Mon 9th Dec 2019 7:41pm,12/9/19 7:41 PM,12/10/19 9:11 AM,Morning,"Vijayawada, India",Female,9,4
+c19ig13@stjohns.edu,experiment,Gaming,9,1,12,603,1802,603,Mon 9th Dec 2019 7:42pm,12/9/19 7:42 PM,12/10/19 9:12 AM,Morning,"Vijayawada, India",Female,9,3
+c19ig14@stjohns.edu,experiment,Gaming,14,1,13,401,1803,320,Mon 9th Dec 2019 7:42pm,12/9/19 7:42 PM,12/10/19 9:12 AM,Morning,"Vijayawada, India",Female,9,-1
+c19ig9@stjohns.edu,experiment,Gaming,15,1,20,603,1803,602,Mon 9th Dec 2019 7:42pm,12/9/19 7:42 PM,12/10/19 9:12 AM,Morning,"Vijayawada, India",Female,9,5
+c19ig6@stjohns.edu,experiment,Gaming,16,1,11,602,1801,430,Mon 9th Dec 2019 7:43pm,12/9/19 7:43 PM,12/10/19 9:13 AM,Morning,"Vijayawada, India",Female,9,-5
+c19ig8@stjohns.edu,experiment,Gaming,14,1,19,602,1801,602,Mon 9th Dec 2019 7:43pm,12/9/19 7:43 PM,12/10/19 9:13 AM,Morning,"Vijayawada, India",Female,9,5
+c19ib14@stjohns.edu,experiment,Gaming,13,1,16,602,1801,602,Mon 9th Dec 2019 7:44pm,12/9/19 7:44 PM,12/10/19 9:14 AM,Morning,"Vijayawada, India",Male,9,3
+c19ig12@stjohns.edu,experiment,Gaming,17,1,14,595,1802,528,Mon 9th Dec 2019 7:44pm,12/9/19 7:44 PM,12/10/19 9:14 AM,Morning,"Vijayawada, India",Female,9,-3
+c19ig15@stjohns.edu,experiment,Gaming,5,1,18,602,1802,313,Mon 9th Dec 2019 7:44pm,12/9/19 7:44 PM,12/10/19 9:14 AM,Morning,"Vijayawada, India",Female,9,13
+c19ig2@stjohns.edu,experiment,Gaming,16,1,19,603,1802,565,Mon 9th Dec 2019 7:44pm,12/9/19 7:44 PM,12/10/19 9:14 AM,Morning,"Vijayawada, India",Female,9,3
+c19ib9@stjohns.edu,experiment,Gaming,18,1,11,451,1802,356,Mon 9th Dec 2019 7:46pm,12/9/19 7:46 PM,12/10/19 9:16 AM,Morning,"Vijayawada, India",Male,9,-7
+c19ib15@stjohns.edu,experiment,Gaming,15,1,19,431,1802,467,Mon 9th Dec 2019 7:47pm,12/9/19 7:47 PM,12/10/19 9:17 AM,Morning,"Vijayawada, India",Male,9,4
+c19ib8@stjohns.edu,experiment,Gaming,23,1,24,602,1801,562,Mon 9th Dec 2019 7:47pm,12/9/19 7:47 PM,12/10/19 9:17 AM,Morning,"Vijayawada, India",Male,9,1
+c19ib1@stjohns.edu,experiment,Gaming,13,1,23,602,1844,601,Mon 9th Dec 2019 7:48pm,12/9/19 7:48 PM,12/10/19 9:18 AM,Morning,"Vijayawada, India",Male,9,10
+c19ib6@st.johns.edu,experiment,Gaming,12,1,17,550,1802,481,Mon 9th Dec 2019 7:48pm,12/9/19 7:48 PM,12/10/19 9:18 AM,Morning,"Vijayawada, India",Male,9,5
+c19ib10@stjohns.edu,experiment,Gaming,9,1,19,603,1801,603,Mon 9th Dec 2019 7:49pm,12/9/19 7:49 PM,12/10/19 9:19 AM,Morning,"Vijayawada, India",Male,9,10
+c19ib16@stjohns.edu,experiment,Gaming,13,1,13,434,1801,367,Mon 9th Dec 2019 7:49pm,12/9/19 7:49 PM,12/10/19 9:19 AM,Morning,"Vijayawada, India",Male,9,0
+c19i@stjohns.edu,experiment,Gaming,#N/A,0,11,#N/A,12,133,Mon 9th Dec 2019 7:50pm,12/9/19 7:50 PM,12/10/19 9:20 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19ib12@stjohns.edu,experiment,Gaming,6,1,15,602,1801,424,Mon 9th Dec 2019 7:50pm,12/9/19 7:50 PM,12/10/19 9:20 AM,Morning,"Vijayawada, India",Male,9,9
+c19ib13@stjohns.edu,experiment,Gaming,15,1,19,602,1801,267,Mon 9th Dec 2019 7:50pm,12/9/19 7:50 PM,12/10/19 9:20 AM,Morning,"Vijayawada, India",Male,9,4
+c19ib18@stjohns.edu,experiment,Gaming,25,1,20,603,1801,506,Mon 9th Dec 2019 7:50pm,12/9/19 7:50 PM,12/10/19 9:20 AM,Morning,"Vijayawada, India",Male,9,-5
+c19ib17@stjohns.edu,experiment,Gaming,15,1,14,535,1801,343,Mon 9th Dec 2019 7:51pm,12/9/19 7:51 PM,12/10/19 9:21 AM,Morning,"Vijayawada, India",Male,9,-1
+c19ib4@stjohns.edu,experiment,Gaming,15,1,#N/A,424,1802,#N/A,Mon 9th Dec 2019 7:57pm,12/9/19 7:57 PM,12/10/19 9:27 AM,Morning,"Vijayawada, India",Male,9,#N/A
+c19ib7@stjohns.edu,experiment,Gaming,10,1,13,458,1801,383,Mon 9th Dec 2019 8:10pm,12/9/19 8:10 PM,12/10/19 9:40 AM,Morning,"Vijayawada, India",Male,9,3
+c19ib3@stjohns.edu,experiment,Gaming,11,1,15,180,1805,451,Mon 9th Dec 2019 8:16pm,12/9/19 8:16 PM,12/10/19 9:46 AM,Morning,"Vijayawada, India",Male,9,4
+c19ib11@stjohns.edu,experiment,Gaming,15,1,22,563,1802,261,Mon 9th Dec 2019 8:34pm,12/9/19 8:34 PM,12/10/19 10:04 AM,Morning,"Vijayawada, India",Male,9,7
+c19ib2@stjohns.edu,experiment,Gaming,7,1,20,601,1802,366,Mon 9th Dec 2019 8:36pm,12/9/19 8:36 PM,12/10/19 10:06 AM,Morning,"Vijayawada, India",Male,9,13
+c19cg20@stjohns.edu,experiment,Gaming,11,1,15,602,1802,602,Mon 9th Dec 2019 8:38pm,12/9/19 8:38 PM,12/10/19 10:08 AM,Morning,"Vijayawada, India",Female,9,4
+c19cg17@stjohns.edu,experiment,Gaming,20,1,13,602,1804,532,Mon 9th Dec 2019 8:39pm,12/9/19 8:39 PM,12/10/19 10:09 AM,Morning,"Vijayawada, India",Female,9,-7
+c19cg18@stjohns.edu,experiment,Gaming,19,1,14,603,1803,602,Mon 9th Dec 2019 8:39pm,12/9/19 8:39 PM,12/10/19 10:09 AM,Morning,"Vijayawada, India",Female,9,-5
+c19cg4@stjohns.edu,experiment,Gaming,12,1,0,208,1803,0,Mon 9th Dec 2019 8:39pm,12/9/19 8:39 PM,12/10/19 10:09 AM,Morning,"Vijayawada, India",Female,9,-12
+c19ib19@stjohns.edu,experiment,Gaming,28,1,23,468,1802,416,Mon 9th Dec 2019 8:56pm,12/9/19 8:56 PM,12/10/19 10:26 AM,Morning,"Vijayawada, India",Male,9,-5
+c1xbb7@stjohns.edu,experiment,Reading,6,1,12,507,1802,464,Mon 9th Dec 2019 9:03pm,12/9/19 9:03 PM,12/10/19 10:33 AM,Morning,"Vijayawada, India",Male,10,6
+c1xbb4@stjohns.edu,experiment,Reading,8,1,20,602,1802,601,Mon 9th Dec 2019 9:05pm,12/9/19 9:05 PM,12/10/19 10:35 AM,Morning,"Vijayawada, India",Male,10,12
+c1xbb2@stjohns.edu,experiment,Reading,11,1,13,495,1802,390,Mon 9th Dec 2019 9:06pm,12/9/19 9:06 PM,12/10/19 10:36 AM,Morning,"Vijayawada, India",Male,10,2
+c1xbg1@stjohns.edu,experiment,Reading,17,1,17,602,1866,601,Mon 9th Dec 2019 9:06pm,12/9/19 9:06 PM,12/10/19 10:36 AM,Morning,"Vijayawada, India",Female,10,0
+c1xbb11@stjohns.edu,experiment,Reading,17,1,16,549,1801,398,Mon 9th Dec 2019 9:07pm,12/9/19 9:07 PM,12/10/19 10:37 AM,Morning,"Vijayawada, India",Male,10,-1
+c19cg16@stjohns.edu,experiment,Gaming,9,1,18,227,1717,307,Mon 9th Dec 2019 9:08pm,12/9/19 9:08 PM,12/10/19 10:38 AM,Morning,"Vijayawada, India",Female,9,9
+c1xbb21@stjohns.edu,experiment,Reading,5,1,13,602,1803,603,Mon 9th Dec 2019 9:09pm,12/9/19 9:09 PM,12/10/19 10:39 AM,Morning,"Vijayawada, India",Male,10,8
+c1xbb24@stjohns.edu,experiment,Reading,7,1,12,603,1802,603,Mon 9th Dec 2019 9:09pm,12/9/19 9:09 PM,12/10/19 10:39 AM,Morning,"Vijayawada, India",Male,10,5
+c1xbb22@stjohns.edu,experiment,Reading,16,1,7,453,1802,142,Mon 9th Dec 2019 9:10pm,12/9/19 9:10 PM,12/10/19 10:40 AM,Morning,"Vijayawada, India",Male,10,-9
+c1xbb3@stjohns.edu,experiment,Reading,6,1,5,602,1803,602,Mon 9th Dec 2019 9:10pm,12/9/19 9:10 PM,12/10/19 10:40 AM,Morning,"Vijayawada, India",Male,10,-1
+c19cg21@stjohns.edu,experiment,Gaming,20,1,#N/A,468,1803,#N/A,Mon 9th Dec 2019 9:14pm,12/9/19 9:14 PM,12/10/19 10:44 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c1xbb9@stjohns.edu,experiment,Reading,18,1,12,565,1802,603,Mon 9th Dec 2019 9:14pm,12/9/19 9:14 PM,12/10/19 10:44 AM,Morning,"Vijayawada, India",Male,10,-6
+c19cg15@stjohns.edu,experiment,Gaming,13,0,18,602,158,586,Mon 9th Dec 2019 9:15pm,12/9/19 9:15 PM,12/10/19 10:45 AM,Morning,"Vijayawada, India",Female,9,5
+c1xbb1@stjohns.edu,experiment,Reading,12,1,5,602,1802,166,Mon 9th Dec 2019 9:15pm,12/9/19 9:15 PM,12/10/19 10:45 AM,Morning,"Vijayawada, India",Male,10,-7
+c1xbb17@stjohns.edu,experiment,Reading,20,1,24,557,1802,428,Mon 9th Dec 2019 9:15pm,12/9/19 9:15 PM,12/10/19 10:45 AM,Morning,"Vijayawada, India",Male,10,4
+c1xbb8@stjohns.edu,experiment,Reading,#N/A,1,17,#N/A,1802,494,Mon 9th Dec 2019 9:15pm,12/9/19 9:15 PM,12/10/19 10:45 AM,Morning,"Vijayawada, India",Male,10,#N/A
+c2xg16@stjohns.edu,experiment,Music,15,1,14,603,1801,604,Mon 9th Dec 2019 9:31pm,12/9/19 9:31 PM,12/10/19 11:01 AM,Morning,"Vijayawada, India",Female,10,-1
+c2xb27@stjohns.edu,experiment,Music,6,1,13,603,1782,603,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Male,10,7
+c2xg11@stjohns.edu,experiment,Music,4,1,17,602,1803,603,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,13
+c2xg13@stjohns.edu,experiment,Music,11,1,11,602,1801,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,0
+c2xg15@stjohns.edu,experiment,Music,4,1,15,601,1802,602,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,11
+c2xg17@st.johns.edu,experiment,Music,14,1,11,602,1801,603,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,-3
+c2xg18@stjohns.edu,experiment,Music,14,1,12,601,1801,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,-2
+c2xg19@stjohns.edu,experiment,Music,6,1,13,591,1803,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,7
+c2xg20@stjohns.edu,experiment,Music,3,1,16,603,1805,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,13
+c2xg21@stjohns.edu,experiment,Music,8,1,#N/A,601,1802,#N/A,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,#N/A
+c2xg22@stjohns.edu,experiment,Music,10,1,11,601,1801,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,1
+c2xg24@stjohns.edu,experiment,Music,4,1,9,602,1801,602,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,5
+c2xg25@stjohns.edu,experiment,Music,7,1,16,601,1801,601,Mon 9th Dec 2019 9:32pm,12/9/19 9:32 PM,12/10/19 11:02 AM,Morning,"Vijayawada, India",Female,10,9
+c1xbb23@stjohns.edu,experiment,Reading,8,1,13,602,1748,603,Mon 9th Dec 2019 9:42pm,12/9/19 9:42 PM,12/10/19 11:12 AM,Morning,"Vijayawada, India",Male,10,5
+c1xdb9@stjohns.edu,experiment,Reading,15,1,19,490,1195,551,Tue 10th Dec 2019 1:12am,12/10/19 1:12 AM,12/10/19 2:42 PM,Afternoon,"Vijayawada, India",Male,10,4
+c1xdb12@stjohns.edu,experiment,Reading,15,1,17,582,1801,602,Tue 10th Dec 2019 1:20am,12/10/19 1:20 AM,12/10/19 2:50 PM,Afternoon,"Vijayawada, India",Male,10,2
+c1xdb8@stjohns.edu,experiment,Reading,21,1,24,602,997,360,Tue 10th Dec 2019 1:23am,12/10/19 1:23 AM,12/10/19 2:53 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xdb6@stjohns.edu,experiment,Reading,27,1,20,602,1802,602,Tue 10th Dec 2019 1:24am,12/10/19 1:24 AM,12/10/19 2:54 PM,Afternoon,"Vijayawada, India",Male,10,-7
+c1xdb13@stjohns.edu,experiment,Reading,11,1,16,602,1802,556,Tue 10th Dec 2019 1:26am,12/10/19 1:26 AM,12/10/19 2:56 PM,Afternoon,"Vijayawada, India",Male,10,5
+c1xdg16@stjohns.edu,experiment,Reading,14,1,18,236,1249,371,Tue 10th Dec 2019 1:28am,12/10/19 1:28 AM,12/10/19 2:58 PM,Afternoon,"Vijayawada, India",Female,10,4
+c1xdg12@stjohns.edu,experiment,Reading,11,1,15,601,1502,602,Tue 10th Dec 2019 1:33am,12/10/19 1:33 AM,12/10/19 3:03 PM,Evening,"Vijayawada, India",Female,10,4
+c1xdg17@stjohns.edu,experiment,Reading,14,1,21,601,1801,602,Tue 10th Dec 2019 1:34am,12/10/19 1:34 AM,12/10/19 3:04 PM,Evening,"Vijayawada, India",Female,10,7
+c1xdg21@stjohns.edu,experiment,Reading,10,1,20,602,1801,602,Tue 10th Dec 2019 1:34am,12/10/19 1:34 AM,12/10/19 3:04 PM,Evening,"Vijayawada, India",Female,10,10
+c1xab6@stjohns.edu,experiment,Reading,7,1,17,602,1802,401,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Male,10,10
+c1xdg1@stjohns.edu,experiment,Reading,15,1,18,602,1191,319,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,3
+c1xdg14@stjohns.edu,experiment,Reading,21,1,23,602,1554,603,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,2
+c1xdg19@stjohns.edu,experiment,Reading,24,1,21,495,1802,466,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,-3
+c1xdg20@stjohns.edu,experiment,Reading,18,1,21,602,1522,550,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,3
+c1xdg22@stjohns.edu,experiment,Reading,9,1,22,601,1371,602,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,13
+c1xdg24@stjohns.edu,experiment,Reading,18,1,23,603,1803,572,Tue 10th Dec 2019 1:36am,12/10/19 1:36 AM,12/10/19 3:06 PM,Evening,"Vijayawada, India",Female,10,5
+c1xdg13@stjohns.edu,experiment,Reading,22,1,25,603,1801,603,Tue 10th Dec 2019 1:37am,12/10/19 1:37 AM,12/10/19 3:07 PM,Evening,"Vijayawada, India",Female,10,3
+c1xdg18@stjohns.edu,experiment,Reading,10,1,14,603,1555,602,Tue 10th Dec 2019 1:37am,12/10/19 1:37 AM,12/10/19 3:07 PM,Evening,"Vijayawada, India",Female,10,4
+c1xdg15@stjohns.edu,experiment,Reading,12,1,20,602,1557,603,Tue 10th Dec 2019 1:40am,12/10/19 1:40 AM,12/10/19 3:10 PM,Evening,"Vijayawada, India",Female,10,8
+vaddamansreesanth417@gmail.com,experiment,Reading,#N/A,1,#N/A,#N/A,1803,#N/A,Tue 10th Dec 2019 1:41am,12/10/19 1:41 AM,12/10/19 3:11 PM,Evening,,,,#N/A
+c1xig10@stjohns.edu,experiment,Reading,12,1,23,602,1801,602,Tue 10th Dec 2019 1:44am,12/10/19 1:44 AM,12/10/19 3:14 PM,Evening,"Vijayawada, India",Female,9,11
+c1xig12@stjohns.edu,experiment,Reading,13,1,28,603,1801,566,Tue 10th Dec 2019 1:45am,12/10/19 1:45 AM,12/10/19 3:15 PM,Evening,"Vijayawada, India",Female,9,15
+c1xig11@stjohns.edu,experiment,Reading,11,1,16,602,1802,603,Tue 10th Dec 2019 1:46am,12/10/19 1:46 AM,12/10/19 3:16 PM,Evening,"Vijayawada, India",Female,9,5
+c1xig9@stjohns.edu,experiment,Reading,6,1,12,603,1801,603,Tue 10th Dec 2019 1:48am,12/10/19 1:48 AM,12/10/19 3:18 PM,Evening,"Vijayawada, India",Female,9,6
+c1xig1@stjohns.edu,experiment,Reading,12,1,27,603,1802,548,Tue 10th Dec 2019 1:49am,12/10/19 1:49 AM,12/10/19 3:19 PM,Evening,"Vijayawada, India",Female,9,15
+c1xig13@stjohns.edu,experiment,Reading,14,1,14,603,1802,602,Tue 10th Dec 2019 1:53am,12/10/19 1:53 AM,12/10/19 3:23 PM,Evening,"Vijayawada, India",Female,9,0
+c1xig15@stjohns.edu,experiment,Reading,14,0,15,603,753,603,Tue 10th Dec 2019 1:59am,12/10/19 1:59 AM,12/10/19 3:29 PM,Evening,"Vijayawada, India",Female,9,1
+c1xcb3@stjohns.edu,experiment,Reading,15,1,21,592,1802,599,Tue 10th Dec 2019 12:27am,12/10/19 12:27 AM,12/10/19 1:57 PM,Afternoon,"Vijayawada, India",Male,10,6
+c1xcb5@stjohns.edu,experiment,Reading,17,1,24,588,1802,467,Tue 10th Dec 2019 12:33am,12/10/19 12:33 AM,12/10/19 2:03 PM,Afternoon,"Vijayawada, India",Male,10,7
+c1xdb1@stjohns.edu,experiment,Reading,22,1,17,602,1298,387,Tue 10th Dec 2019 12:33am,12/10/19 12:33 AM,12/10/19 2:03 PM,Afternoon,"Vijayawada, India",Male,10,-5
+c1xcb10@stjohns.edu,experiment,Reading,17,1,18,602,1801,602,Tue 10th Dec 2019 12:35am,12/10/19 12:35 AM,12/10/19 2:05 PM,Afternoon,"Vijayawada, India",Male,10,1
+c1xcb4@stjohns.edu,experiment,Reading,18,1,22,566,1802,457,Tue 10th Dec 2019 12:35am,12/10/19 12:35 AM,12/10/19 2:05 PM,Afternoon,"Vijayawada, India",Male,10,4
+c1xcb1@stjohns.edu,experiment,Reading,12,1,17,558,1801,603,Tue 10th Dec 2019 12:37am,12/10/19 12:37 AM,12/10/19 2:07 PM,Afternoon,"Vijayawada, India",Male,10,5
+c1xcb11@stjohns.edu,experiment,Reading,11,1,14,553,1802,603,Tue 10th Dec 2019 12:37am,12/10/19 12:37 AM,12/10/19 2:07 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xdb2@stjohns.edu,experiment,Reading,21,1,21,602,1535,450,Tue 10th Dec 2019 12:37am,12/10/19 12:37 AM,12/10/19 2:07 PM,Afternoon,"Vijayawada, India",Male,10,0
+c1xcb12@stjohns.edu,experiment,Reading,22,1,21,602,1802,603,Tue 10th Dec 2019 12:39am,12/10/19 12:39 AM,12/10/19 2:09 PM,Afternoon,"Vijayawada, India",Male,10,-1
+c1xcb13@stjohns.edu,experiment,Reading,9,1,19,602,1801,602,Tue 10th Dec 2019 12:39am,12/10/19 12:39 AM,12/10/19 2:09 PM,Afternoon,"Vijayawada, India",Male,10,10
+c1xdb3@stjohns.edu,experiment,Reading,6,1,18,602,1545,602,Tue 10th Dec 2019 12:40am,12/10/19 12:40 AM,12/10/19 2:10 PM,Afternoon,"Vijayawada, India",Male,10,12
+c1xdb5@stjohns.edu,experiment,Reading,17,1,27,568,1582,441,Tue 10th Dec 2019 12:40am,12/10/19 12:40 AM,12/10/19 2:10 PM,Afternoon,"Vijayawada, India",Male,10,10
+c1xdb4@stjohns.ed,experiment,Reading,5,1,17,603,1520,349,Tue 10th Dec 2019 12:41am,12/10/19 12:41 AM,12/10/19 2:11 PM,Afternoon,"Vijayawada, India",Male,10,12
+c1xdg6@stjohns.edu,experiment,Reading,15,1,14,603,1801,546,Tue 10th Dec 2019 12:47am,12/10/19 12:47 AM,12/10/19 2:17 PM,Afternoon,"Vijayawada, India",Female,10,-1
+c1xdg7@stjohns.edu,experiment,Reading,11,1,17,602,1801,602,Tue 10th Dec 2019 12:47am,12/10/19 12:47 AM,12/10/19 2:17 PM,Afternoon,"Vijayawada, India",Female,10,6
+c1xdg9@stjohns.edu,experiment,Reading,5,1,17,601,1369,514,Tue 10th Dec 2019 12:47am,12/10/19 12:47 AM,12/10/19 2:17 PM,Afternoon,"Vijayawada, India",Female,10,12
+c1xdg10@stjohns.edu,experiment,Reading,9,1,20,602,1287,500,Tue 10th Dec 2019 12:49am,12/10/19 12:49 AM,12/10/19 2:19 PM,Afternoon,"Vijayawada, India",Female,10,11
+c1xdg2@stjohns.edu,experiment,Reading,18,1,22,602,1801,332,Tue 10th Dec 2019 12:49am,12/10/19 12:49 AM,12/10/19 2:19 PM,Afternoon,"Vijayawada, India",Female,10,4
+c1xdg5@stjohns.edu,experiment,Reading,6,1,18,601,1245,515,Tue 10th Dec 2019 12:49am,12/10/19 12:49 AM,12/10/19 2:19 PM,Afternoon,"Vijayawada, India",Female,10,12
+c1xdg8@stjohns.edu,experiment,Reading,19,1,21,602,1476,262,Tue 10th Dec 2019 12:49am,12/10/19 12:49 AM,12/10/19 2:19 PM,Afternoon,"Vijayawada, India",Female,10,2
+c1xdb7@stjohns.edu,experiment,Reading,19,1,17,425,1802,533,Tue 10th Dec 2019 12:51am,12/10/19 12:51 AM,12/10/19 2:21 PM,Afternoon,"Vijayawada, India",Male,10,-2
+c1xdg4@stjohns.edu,experiment,Reading,11,1,17,603,1802,418,Tue 10th Dec 2019 12:51am,12/10/19 12:51 AM,12/10/19 2:21 PM,Afternoon,"Vijayawada, India",Female,10,6
+c1xdb11@stjohns.edu,experiment,Reading,21,1,22,602,1803,602,Tue 10th Dec 2019 12:53am,12/10/19 12:53 AM,12/10/19 2:23 PM,Afternoon,"Vijayawada, India",Male,10,1
+c1xdb10@stjohns.edu,experiment,Reading,18,1,24,594,1802,435,Tue 10th Dec 2019 12:55am,12/10/19 12:55 AM,12/10/19 2:25 PM,Afternoon,"Vijayawada, India",Male,10,6
+c2ixb1@stjohns.edu,experiment,Music,10,1,#N/A,602,1803,#N/A,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c2ixb10@stjohns.edu,experiment,Music,8,1,#N/A,604,1801,#N/A,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c2ixb12@stjohns.edu,experiment,Music,17,1,16,601,1806,601,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,-1
+c2ixb14@stjohns.edu,experiment,Music,12,1,21,602,1801,603,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,9
+c2ixb15@stjohns.edu,experiment,Music,17,1,23,601,1802,602,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,6
+c2ixb17@stjohns.edu,experiment,Music,6,1,17,601,1802,602,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,11
+c2ixb18@stjohns.edu,experiment,Music,4,1,6,601,1803,603,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,2
+c2ixb19@stjohns.edu,experiment,Music,6,1,14,602,1805,601,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,8
+c2ixb3@stjohns.edu,experiment,Music,2,1,#N/A,602,1801,#N/A,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c2ixb5@stjohns.edu,experiment,Music,17,1,20,602,1801,601,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,3
+c2ixb7@stjohns.edu,experiment,Music,4,1,15,602,1803,602,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,11
+c2ixb8@stjohns.edu,experiment,Music,9,1,15,601,1805,603,Tue 10th Dec 2019 12:59am,12/10/19 12:59 AM,12/10/19 2:29 PM,Afternoon,"Vijayawada, India",Male,9,6
+cixdb8@stjohns.edu,experiment,Reading,#N/A,0,#N/A,#N/A,706,#N/A,Tue 10th Dec 2019 2:00am,12/10/19 2:00 AM,12/10/19 3:30 PM,Evening,"Vijayawada, India",Male,9,#N/A
+c1xig16@stjohns.edu,experiment,Reading,19,1,24,602,1766,598,Tue 10th Dec 2019 2:11am,12/10/19 2:11 AM,12/10/19 3:41 PM,Evening,"Vijayawada, India",Female,9,5
+c1xig2@stjohns.edu,experiment,Reading,19,1,22,592,1809,308,Tue 10th Dec 2019 2:17am,12/10/19 2:17 AM,12/10/19 3:47 PM,Evening,"Vijayawada, India",Female,9,3
+c1xig3@stjohns.edu,experiment,Reading,12,1,19,602,1801,550,Tue 10th Dec 2019 2:20am,12/10/19 2:20 AM,12/10/19 3:50 PM,Evening,"Vijayawada, India",Female,9,7
+c2ixg4@stjohns.edu,experiment,Music,6,1,19,602,1801,601,Tue 10th Dec 2019 2:21am,12/10/19 2:21 AM,12/10/19 3:51 PM,Evening,"Vijayawada, India",Female,9,13
+c2ixb20@stjohns.edu,experiment,Music,13,1,14,602,1802,603,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,1
+c2ixb21@stjohns.edu,experiment,Music,8,1,16,603,1801,601,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,8
+c2ixb22@stjohns.edu,experiment,Music,6,1,14,603,1801,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,8
+c2ixb24@stjohns.edu,experiment,Music,6,1,12,602,1802,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,6
+c2ixb25@stjohns.edu,experiment,Music,7,1,12,601,1803,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,5
+c2ixb26@stjohns.edu,experiment,Music,3,1,4,589,1802,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,1
+c2ixb27@stjohns.edu,experiment,Music,9,1,14,603,1803,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,5
+c2ixb28@stjohns.edu,experiment,Music,8,1,14,601,1803,602,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,6
+c2ixb29@stjohns.edu,experiment,Music,6,1,11,601,1802,603,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Male,9,5
+c2ixg1@stjohns.edu,experiment,Music,5,1,14,602,1802,601,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Female,9,9
+c2ixg2@stjohns.edu,experiment,Music,6,1,12,602,1801,603,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Female,9,6
+c2ixg3@stjohns.edu,experiment,Music,5,1,23,601,1802,601,Tue 10th Dec 2019 2:22am,12/10/19 2:22 AM,12/10/19 3:52 PM,Evening,"Vijayawada, India",Female,9,18
+c1xig5@stjohns.edu,experiment,Reading,8,1,18,602,1644,523,Tue 10th Dec 2019 2:23am,12/10/19 2:23 AM,12/10/19 3:53 PM,Evening,"Vijayawada, India",Female,9,10
+c1xig7@stjohns.edu,experiment,Reading,16,1,18,601,1661,601,Tue 10th Dec 2019 2:24am,12/10/19 2:24 AM,12/10/19 3:54 PM,Evening,"Vijayawada, India",Female,9,2
+c1xig4@stjohns.edu,experiment,Reading,17,1,17,602,1665,207,Tue 10th Dec 2019 2:25am,12/10/19 2:25 AM,12/10/19 3:55 PM,Evening,"Vijayawada, India",Female,9,0
+c1xig8@stjohns.edu,experiment,Reading,12,1,20,602,1802,544,Tue 10th Dec 2019 2:26am,12/10/19 2:26 AM,12/10/19 3:56 PM,Evening,"Vijayawada, India",Female,9,8
+c1xib17@stjohns.edu,experiment,Reading,18,1,16,603,1802,211,Tue 10th Dec 2019 2:27am,12/10/19 2:27 AM,12/10/19 3:57 PM,Evening,"Vijayawada, India",Male,9,-2
+c1xib1@stjohns.edu,experiment,Reading,27,1,15,505,1748,170,Tue 10th Dec 2019 2:28am,12/10/19 2:28 AM,12/10/19 3:58 PM,Evening,"Vijayawada, India",Male,9,-12
+c1xib11@stjohns.edu,experiment,Reading,17,1,17,603,1801,164,Tue 10th Dec 2019 2:29am,12/10/19 2:29 AM,12/10/19 3:59 PM,Evening,"Vijayawada, India",Male,9,0
+c1xib2@stjohns.edu,experiment,Reading,17,1,10,545,1801,141,Tue 10th Dec 2019 2:29am,12/10/19 2:29 AM,12/10/19 3:59 PM,Evening,"Vijayawada, India",Male,9,-7
+c1xib10@stjohns.edu,experiment,Reading,9,1,22,602,1681,521,Tue 10th Dec 2019 2:30am,12/10/19 2:30 AM,12/10/19 4:00 PM,Evening,"Vijayawada, India",Male,9,13
+c1xib12@stjohns.edu,experiment,Reading,9,1,26,602,1605,603,Tue 10th Dec 2019 2:30am,12/10/19 2:30 AM,12/10/19 4:00 PM,Evening,"Vijayawada, India",Male,9,17
+c1xib16@stjohns.edu,experiment,Reading,3,1,21,602,1729,555,Tue 10th Dec 2019 2:30am,12/10/19 2:30 AM,12/10/19 4:00 PM,Evening,"Vijayawada, India",Male,9,18
+c1xib13@stjohns.edu,experiment,Reading,21,1,14,567,1801,187,Tue 10th Dec 2019 2:31am,12/10/19 2:31 AM,12/10/19 4:01 PM,Evening,"Vijayawada, India",Male,9,-7
+c1xib14@stjohns.edu,experiment,Reading,20,1,19,602,1751,180,Tue 10th Dec 2019 2:33am,12/10/19 2:33 AM,12/10/19 4:03 PM,Evening,"Vijayawada, India",Male,9,-1
+c1xib7@stjohns.edu,experiment,Reading,19,1,15,320,1801,253,Tue 10th Dec 2019 2:33am,12/10/19 2:33 AM,12/10/19 4:03 PM,Evening,"Vijayawada, India",Male,9,-4
+c1xib3@stjohns.edu,experiment,Reading,27,1,14,488,1622,205,Tue 10th Dec 2019 2:38am,12/10/19 2:38 AM,12/10/19 4:08 PM,Evening,"Vijayawada, India",Male,9,-13
+c1xib6@stjohns.edu,experiment,Reading,16,1,8,520,1608,191,Tue 10th Dec 2019 2:38am,12/10/19 2:38 AM,12/10/19 4:08 PM,Evening,"Vijayawada, India",Male,9,-8
+c1xib4@stjohns.edu,experiment,Reading,4,1,20,602,1802,252,Tue 10th Dec 2019 2:39am,12/10/19 2:39 AM,12/10/19 4:09 PM,Evening,"Vijayawada, India",Male,9,16
+c1xib9@stjohns.edu,experiment,Reading,18,1,13,573,1801,180,Tue 10th Dec 2019 2:40am,12/10/19 2:40 AM,12/10/19 4:10 PM,Evening,"Vijayawada, India",Male,9,-5
+c1xib5@stjohns.edu,experiment,Reading,17,1,31,601,1805,191,Tue 10th Dec 2019 2:42am,12/10/19 2:42 AM,12/10/19 4:12 PM,Evening,"Vijayawada, India",Male,9,14
+c1xib8@stjohns.edu,experiment,Reading,13,1,6,338,1806,108,Tue 10th Dec 2019 2:42am,12/10/19 2:42 AM,12/10/19 4:12 PM,Evening,"Vijayawada, India",Male,9,-7
+alexanderhoryn22@mittymonarch.com,pilot,Music,28,1,29,602,1792,602,Sat 16th Nov 2019 2:25pm,11/16/19 2:25 PM,11/16/19 2:25 PM,Afternoon,,,,1
+bryce.g.young@gmail.com,pilot,Music,19,1,24,602,1801,602,Sat 16th Nov 2019 2:37pm,11/16/19 2:37 PM,11/16/19 2:37 PM,Afternoon,,,,5
+chehan.wijaya@gmail.com,pilot,Reading,27,1,36,602,1801,602,Sat 16th Nov 2019 2:53pm,11/16/19 2:53 PM,11/16/19 2:53 PM,Afternoon,,,,9
+cristian.estela@warriorlife.net,pilot,Gaming,25,1,30,601,1802,602,Sat 16th Nov 2019 2:53pm,11/16/19 2:53 PM,11/16/19 2:53 PM,Afternoon,,,,5
+cool.aaravb@gmail.com,pilot,Reading,27,1,36,603,1802,602,Sat 16th Nov 2019 3:12pm,11/16/19 3:12 PM,11/16/19 3:12 PM,Evening,,,,9
+maxwellbarber22@mittymonarch.com,pilot,Music,18,0,15,125,21,94,Sat 16th Nov 2019 5:00pm,11/16/19 5:00 PM,11/16/19 5:00 PM,Evening,,,,-3
+ngottipa@gmail.com,pilot,Reading,15,1,29,454,1802,602,Sat 16th Nov 2019 5:53pm,11/16/19 5:53 PM,11/16/19 5:53 PM,Evening,,,,14
+bansal.devansh@gmail.com,pilot,Reading,34,1,39,603,1802,602,Sat 16th Nov 2019 6:18pm,11/16/19 6:18 PM,11/16/19 6:18 PM,Evening,,,,5
+biucolino@gmail.com,pilot,Music,11,0,19,603,0,603,Sat 16th Nov 2019 7:02am,11/16/19 7:02 AM,11/16/19 7:02 AM,Morning,PA,,9,8
+starrye22@gmail.com,pilot,Reading,26,0,41,602,1,602,Sat 16th Nov 2019 7:34am,11/16/19 7:34 AM,11/16/19 7:34 AM,Morning,PA,9,,15
+aman.lalwani@gmail.com,pilot,Gaming,15,1,23,603,1801,603,Sat 16th Nov 2019 7:50pm,11/16/19 7:50 PM,11/16/19 7:50 PM,Evening,,,,8
+jack.glanville@gmail.com,pilot,Gaming,35,1,31,603,1803,601,Sat 16th Nov 2019 7:52pm,11/16/19 7:52 PM,11/16/19 7:52 PM,Evening,,,,-4
+bluecube448@hotmail.com,pilot,Gaming,4,1,11,602,1802,602,Sat 16th Nov 2019 8:23am,11/16/19 8:23 AM,11/16/19 8:23 AM,Morning,PA,,11,7
+arjunn2300@gmail.com,pilot,Gaming,18,1,26,603,1801,602,Sat 16th Nov 2019 8:44pm,11/16/19 8:44 PM,11/16/19 8:44 PM,Evening,,,,8
+nathandhanani22@mittymonarch.com,pilot,Reading,27,1,32,601,1771,602,Sat 16th Nov 2019 9:01am,11/16/19 9:01 AM,11/16/19 9:01 AM,Morning,,,,5
+mbussen@sbcglobal.net,pilot,Reading,19,1,17,601,1782,602,Sat 16th Nov 2019 9:05am,11/16/19 9:05 AM,11/16/19 9:05 AM,Morning,,,,-2
+aidanfriss@gmail.com,pilot,Reading,17,0,5,159,12,167,Sat 16th Nov 2019 9:06am,11/16/19 9:06 AM,11/16/19 9:06 AM,Morning,,,,-12
+bischoffea@gmail.com,pilot,Gaming,13,1,23,601,1771,601,Sat 16th Nov 2019 9:10am,11/16/19 9:10 AM,11/16/19 9:10 AM,Morning,,,,10
+tanaybiradar24@gmail.com,pilot,Music,34,1,41,602,1798,555,Sat 16th Nov 2019 9:24am,11/16/19 9:24 AM,11/16/19 9:24 AM,Morning,,,,7
+akzelalfaro22@mittymonarch.com,pilot,Gaming,14,0,29,602,396,603,Sun 17th Nov 2019 1:06pm,11/17/19 1:06 PM,11/17/19 1:06 PM,Afternoon,,,,15
+basu.shrey@gmail.com,pilot,Reading,19,1,33,601,1786,601,Sun 17th Nov 2019 1:21pm,11/17/19 1:21 PM,11/17/19 1:21 PM,Afternoon,,,,14
+danieldry22@mittymonarch.com,pilot,Music,27,0,24,439,0,484,Sun 17th Nov 2019 2:07pm,11/17/19 2:07 PM,11/17/19 2:07 PM,Afternoon,,,,-3
+mateocauchi22@mittymonarch.com,pilot,Reading,30,1,27,601,1772,603,Sun 17th Nov 2019 2:14pm,11/17/19 2:14 PM,11/17/19 2:14 PM,Afternoon,,,,-3
+kp.kriish@gmail.com,pilot,Gaming,38,1,43,602,1801,578,Sun 17th Nov 2019 2:52pm,11/17/19 2:52 PM,11/17/19 2:52 PM,Afternoon,,,,5
+erikrulkens@gmail.com,pilot,Gaming,24,1,28,603,1802,603,Sun 17th Nov 2019 3:21pm,11/17/19 3:21 PM,11/17/19 3:21 PM,Evening,,,,4
+jacksonstory22@mittymonarch.com,pilot,Music,8,1,20,379,1773,603,Sun 17th Nov 2019 5:54pm,11/17/19 5:54 PM,11/17/19 5:54 PM,Evening,,,,12
+2004shlok@gmail.com,pilot,Music,24,1,28,602,1802,603,Sun 17th Nov 2019 6:00pm,11/17/19 6:00 PM,11/17/19 6:00 PM,Evening,,,,4
+rewa.cd14@gmail.com,pilot,Music,18,1,28,603,1804,603,Sun 17th Nov 2019 6:11am,11/17/19 6:11 AM,11/17/19 6:11 AM,Morning,,,,10
+anjali.moorthy7@gmail.com,pilot,Music,21,0,25,602,130,603,Sun 17th Nov 2019 8:10am,11/17/19 8:10 AM,11/17/19 8:10 AM,Morning,,,,4
+bellakatherineredd@gmail.com,pilot,Music,23,1,23,602,1801,601,Sun 17th Nov 2019 8:45am,11/17/19 8:45 AM,11/17/19 8:45 AM,Morning,,,,0
+denisedow@icloud.com,pilot,Reading,15,1,11,602,1701,602,Sun 17th Nov 2019 8:52am,11/17/19 8:52 AM,11/17/19 8:52 AM,Morning,,,,-4
+natefnt28@gmail.com,pilot,Music,35,0,32,459,18,603,Sun 17th Nov 2019 9:09am,11/17/19 9:09 AM,11/17/19 9:09 AM,Morning,,,,-3
+vinayvellore676@gmail.com,pilot,Gaming,10,1,18,603,1642,602,Sun 17th Nov 2019 9:09am,11/17/19 9:09 AM,11/17/19 9:09 AM,Morning,,,,8
+agustingarcia22@mittymonarch.com,pilot,Gaming,30,1,7,601,1798,67,Sun 17th Nov 2019 9:11am,11/17/19 9:11 AM,11/17/19 9:11 AM,Morning,,,,-23
+rikiosuzuki22@mittymonarch.com,pilot,Gaming,16,1,29,602,1802,602,Sun 17th Nov 2019 9:12am,11/17/19 9:12 AM,11/17/19 9:12 AM,Morning,,,,13
+vibhuk10@gmail.com,pilot,Gaming,27,1,32,603,1802,602,Sun 17th Nov 2019 9:38am,11/17/19 9:38 AM,11/17/19 9:38 AM,Morning,,,,5
+shahmasoumi@gmail.com,pilot,Gaming,20,1,30,602,1821,602,Sun 17th Nov 2019 9:43am,11/17/19 9:43 AM,11/17/19 9:43 AM,Morning,,,,10
+samihir123@gmail.com,pilot,Reading,23,1,33,601,1802,602,Sat 16th Nov 2019 10:31am,11/6/19 10:31 AM,11/6/19 10:31 AM,Morning,,,,10
+tanishchettiar@icloud.com,pilot,Music,23,1,38,601,1801,602,Sat 16th Nov 2019 10:35am,11/6/19 10:35 AM,11/6/19 10:35 AM,Morning,,,,15
+andreasdijmarescu@gmail.com,pilot,Gaming,15,1,#N/A,602,1802,#N/A,Sat 16th Nov 2019 10:40am,11/6/19 10:40 AM,11/6/19 10:40 AM,Morning,,,,#N/A
+rishi.pasumarthi@gmail.com,pilot,Gaming,27,1,42,602,1802,602,Sat 16th Nov 2019 10:48am,11/6/19 10:48 AM,11/6/19 10:48 AM,Morning,,,,15
+anirudh.marg@gmail.com,pilot,Reading,41,1,43,603,1801,597,Sat 16th Nov 2019 11:06am,11/6/19 11:06 AM,11/6/19 11:06 AM,Morning,,,,2
+angela.li@warriorlife.net,pilot,Music,16,1,27,602,1801,601,Sun 17th Nov 2019 11:55am,11/7/19 11:55 AM,11/7/19 11:55 AM,Morning,,,,11
+natalyn.nguyen@warriorlife.net,pilot,Reading,22,0,39,602,22,585,Sun 17th Nov 2019 12:31pm,11/7/19 12:31 PM,11/7/19 12:31 PM,Afternoon,,,,17
+elisemolner@yahoo.com,pilot,Gaming,23,1,23,602,1768,602,Sun 17th Nov 2019 12:57pm,11/7/19 12:57 PM,11/7/19 12:57 PM,Afternoon,,,,0
+c19ag10@stjohns.edu,experiment,Gaming,14,1,13,603,1802,602,Sun 8th Dec 2019 10:00pm,12/8/19 10:00 PM,12/9/19 11:30 AM,Morning,"Vijayawada, India",Female,9,-1
+c19ag5@stjohns.edu,experiment,Gaming,9,1,14,603,1802,602,Sun 8th Dec 2019 10:00pm,12/8/19 10:00 PM,12/9/19 11:30 AM,Morning,"Vijayawada, India",Female,9,5
+c19bg16@stjohns.edu,experiment,Gaming,25,1,21,455,1802,603,Sun 8th Dec 2019 10:10pm,12/8/19 10:10 PM,12/9/19 11:40 AM,Morning,"Vijayawada, India",Female,9,-4
+c19ag12@stjohns.edu,experiment,Gaming,3,1,5,602,1802,602,Sun 8th Dec 2019 10:12pm,12/8/19 10:12 PM,12/9/19 11:42 AM,Morning,"Vijayawada, India",Female,9,2
+c19g11@stjohns.edu,experiment,Gaming,#N/A,1,#N/A,#N/A,1802,#N/A,Sun 8th Dec 2019 10:12pm,12/8/19 10:12 PM,12/9/19 11:42 AM,Morning,"Vijayawada, India",Female,9,#N/A
+c19ag7@stjohns.edu,experiment,Gaming,8,1,10,603,1802,602,Sun 8th Dec 2019 10:17pm,12/8/19 10:17 PM,12/9/19 11:47 AM,Morning,"Vijayawada, India",Female,9,2
+c210b9@stjohns.edu,experiment,Music,#N/A,1,#N/A,#N/A,1803,#N/A,Sun 8th Dec 2019 10:18pm,12/8/19 10:18 PM,12/9/19 11:48 AM,Morning,"Vijayawada, India",Male,10,#N/A
+c2xb7@stjohns.edu,experiment,Music,4,1,11,602,1802,603,Sun 8th Dec 2019 10:18pm,12/8/19 10:18 PM,12/9/19 11:48 AM,Morning,"Vijayawada, India",Male,10,7
+c210b11@stjohns.edu,experiment,Music,15,0,17,601,0,602,Sun 8th Dec 2019 10:19pm,12/8/19 10:19 PM,12/9/19 11:49 AM,Morning,"Vijayawada, India",Male,10,2
+ci9ag13@stjohns.edu,experiment,Gaming,12,0,15,602,14,603,Sun 8th Dec 2019 10:21pm,12/8/19 10:21 PM,12/9/19 11:51 AM,Morning,"Vijayawada, India",Female,9,3
+c19ag14@stjohns.edu,experiment,Gaming,17,1,13,601,1802,504,Sun 8th Dec 2019 10:23pm,12/8/19 10:23 PM,12/9/19 11:53 AM,Morning,"Vijayawada, India",Female,9,-4
+c2xb1@stjohns.edu,experiment,Music,7,0,16,603,0,603,Sun 8th Dec 2019 10:23pm,12/8/19 10:23 PM,12/9/19 11:53 AM,Morning,"Vijayawada, India",Male,10,9
+c21b10@stjohns.edu,experiment,Music,10,0,#N/A,602,0,#N/A,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,,#N/A
+c2xb13@stjohns.edu,experiment,Music,7,0,#N/A,602,0,#N/A,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,#N/A
+c2xb2@stjohns.edu,experiment,Music,12,1,13,602,1802,603,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,1
+c2xb3@stjohns.edu,experiment,Music,7,1,18,602,1808,601,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,11
+c2xb4@stjohns.edu,experiment,Music,11,1,18,603,1801,603,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,7
+c2xb5@stjohns.edu,experiment,Music,6,1,21,602,1810,603,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,15
+c2xb6@stjohns.edu,experiment,Music,#N/A,1,17,#N/A,1815,325,Sun 8th Dec 2019 10:24pm,12/8/19 10:24 PM,12/9/19 11:54 AM,Morning,"Vijayawada, India",Male,10,#N/A
+c2xb12@stjohns.edu,experiment,Music,13,1,16,602,2306,602,Sun 8th Dec 2019 10:27pm,12/8/19 10:27 PM,12/9/19 11:57 AM,Morning,"Vijayawada, India",Male,10,3
+c19cb12@stjohns.edu,experiment,Gaming,15,1,15,602,1801,556,Sun 8th Dec 2019 10:43pm,12/8/19 10:43 PM,12/9/19 12:13 PM,Afternoon,"Vijayawada, India",Male,9,0
+c19cb14@stjohns.edu,experiment,Gaming,15,1,15,525,1803,602,Sun 8th Dec 2019 10:48pm,12/8/19 10:48 PM,12/9/19 12:18 PM,Afternoon,"Vijayawada, India",Male,9,0
+c19cb18@stjohns.edu,experiment,Gaming,12,1,16,383,1801,601,Sun 8th Dec 2019 10:48pm,12/8/19 10:48 PM,12/9/19 12:18 PM,Afternoon,"Vijayawada, India",Male,9,4
+c19ag15@stjohns.edu,experiment,Gaming,12,1,15,602,1802,502,Sun 8th Dec 2019 10:50pm,12/8/19 10:50 PM,12/9/19 12:20 PM,Afternoon,"Vijayawada, India",Female,9,3
+c19ag16@stjohns.edu,experiment,Gaming,17,1,9,602,1803,602,Sun 8th Dec 2019 10:53pm,12/8/19 10:53 PM,12/9/19 12:23 PM,Afternoon,"Vijayawada, India",Female,9,-8
+c19ag17@stjohns.edu,experiment,Gaming,11,1,9,603,1801,602,Sun 8th Dec 2019 10:53pm,12/8/19 10:53 PM,12/9/19 12:23 PM,Afternoon,"Vijayawada, India",Female,9,-2
+c19cb17@stjohns.edu,experiment,Gaming,11,1,14,602,1802,602,Sun 8th Dec 2019 10:53pm,12/8/19 10:53 PM,12/9/19 12:23 PM,Afternoon,"Vijayawada, India",Male,9,3
+c19ab10@stjohns.edu,experiment,Gaming,11,1,21,601,1784,586,Sun 8th Dec 2019 10:54pm,12/8/19 10:54 PM,12/9/19 12:24 PM,Afternoon,"Vijayawada, India",Male,9,10
+c19ag@stjohns.edu,experiment,Gaming,#N/A,1,#N/A,#N/A,1803,#N/A,Sun 8th Dec 2019 10:54pm,12/8/19 10:54 PM,12/9/19 12:24 PM,Afternoon,"Vijayawada, India",Female,9,#N/A
+c19ag18@stjohns.edu,experiment,Gaming,18,1,19,595,1802,592,Sun 8th Dec 2019 10:54pm,12/8/19 10:54 PM,12/9/19 12:24 PM,Afternoon,"Vijayawada, India",Female,9,1
+c19ag19@stjohns.edu,experiment,Gaming,17,1,23,602,1802,603,Sun 8th Dec 2019 10:54pm,12/8/19 10:54 PM,12/9/19 12:24 PM,Afternoon,"Vijayawada, India",Female,9,6
+c19cb15@stjohns.edu,experiment,Gaming,4,1,5,602,1803,602,Sun 8th Dec 2019 10:54pm,12/8/19 10:54 PM,12/9/19 12:24 PM,Afternoon,"Vijayawada, India",Male,9,1
+c19ag21@stjohns.edu,experiment,Gaming,16,1,12,602,1801,603,Sun 8th Dec 2019 10:56pm,12/8/19 10:56 PM,12/9/19 12:26 PM,Afternoon,"Vijayawada, India",Female,9,-4
+c19db1@stjohns.edu,experiment,Music,10,1,15,603,1802,603,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,5
+c19db10@stjohns.edu,experiment,Music,13,1,9,602,1802,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,-4
+c19db11@stjohns.edu,experiment,Music,15,1,15,602,1802,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,0
+c19db12@stjohns.edu,experiment,Music,21,1,20,330,1802,200,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,-1
+c19db13@stjohns.edu,experiment,Music,22,1,17,603,1802,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,-5
+c19db14@stjohns.edu,experiment,Music,9,1,15,603,1803,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,6
+c19db2@stjohns.edu,experiment,Music,14,1,22,602,1802,409,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,8
+c19db3@stjohns.edu,experiment,Music,17,1,18,602,1801,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,1
+c19db4@stjohns.edu,experiment,Music,10,1,14,602,1801,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,4
+c19db5@stjohns.edu,experiment,Music,11,1,11,602,1802,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,0
+c19db6@stjohns.edu,experiment,Music,8,1,16,604,1802,602,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,8
+c19db7@stjohns.edu,experiment,Music,20,1,16,530,1802,453,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,-4
+c19db8@stjohns.edu,experiment,Music,17,1,18,602,1802,512,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,1
+c19db9@stjohns.edu,experiment,Music,14,1,14,602,1802,504,Sun 8th Dec 2019 11:55pm,12/8/19 11:55 PM,12/9/19 1:25 PM,Afternoon,"Vijayawada, India",Male,9,0
+c19ab@stjohns.edu,experiment,Gaming,#N/A,0,#N/A,#N/A,63,#N/A,Sun 8th Dec 2019 11:57pm,12/8/19 11:57 PM,12/9/19 1:27 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c19ab14@stjohns.edu,experiment,Gaming,11,1,16,601,1803,587,Sun 8th Dec 2019 11:58pm,12/8/19 11:58 PM,12/9/19 1:28 PM,Afternoon,"Vijayawada, India",Male,9,5
+c19ab2@stjohns.edu,experiment,Gaming,13,1,19,602,1801,602,Sun 8th Dec 2019 11:58pm,12/8/19 11:58 PM,12/9/19 1:28 PM,Afternoon,"Vijayawada, India",Male,9,6
+c19ab3@stjohns.edu,experiment,Gaming,0,1,13,0,1801,603,Sun 8th Dec 2019 11:58pm,12/8/19 11:58 PM,12/9/19 1:28 PM,Afternoon,"Vijayawada, India",Male,9,13
+c1xag3@stjohns.edu,experiment,Reading,6,1,15,603,1802,603,Mon 9th Dec 2019 10:03pm,12/9/19 10:03 PM,12/10/19 11:33 AM,Morning,"Vijayawada, India",Female,10,9
+c1xag7@stjohns.edu,experiment,Reading,10,0,13,602,22,602,Mon 9th Dec 2019 10:07pm,12/9/19 10:07 PM,12/10/19 11:37 AM,Morning,"Vijayawada, India",Female,10,3
+c1xag12@stjohns.edu,experiment,Reading,12,1,14,421,1801,255,Mon 9th Dec 2019 10:11pm,12/9/19 10:11 PM,12/10/19 11:41 AM,Morning,"Vijayawada, India",Female,10,2
+c1xag4@stjohns.edu,experiment,Reading,14,1,16,602,1801,603,Mon 9th Dec 2019 10:12pm,12/9/19 10:12 PM,12/10/19 11:42 AM,Morning,"Vijayawada, India",Female,10,2
+c1xag10@stjohns.edu,experiment,Reading,2,1,8,603,1802,603,Mon 9th Dec 2019 10:13pm,12/9/19 10:13 PM,12/10/19 11:43 AM,Morning,"Vijayawada, India",Female,10,6
+c1xag5@stjohns.edu,experiment,Reading,3,1,13,602,1801,602,Mon 9th Dec 2019 10:13pm,12/9/19 10:13 PM,12/10/19 11:43 AM,Morning,"Vijayawada, India",Female,10,10
+c1xag6@stjohns.edu,experiment,Reading,7,1,16,602,1801,602,Mon 9th Dec 2019 10:13pm,12/9/19 10:13 PM,12/10/19 11:43 AM,Morning,"Vijayawada, India",Female,10,9
+c1xag8@stjohns.edu,experiment,Reading,18,1,16,602,1801,434,Mon 9th Dec 2019 10:13pm,12/9/19 10:13 PM,12/10/19 11:43 AM,Morning,"Vijayawada, India",Female,10,-2
+c1xag9@stjohns.edu,experiment,Reading,8,1,10,602,1801,603,Mon 9th Dec 2019 10:13pm,12/9/19 10:13 PM,12/10/19 11:43 AM,Morning,"Vijayawada, India",Female,10,2
+c1xag14@stjohns.edu,experiment,Reading,5,1,10,603,1803,602,Mon 9th Dec 2019 10:14pm,12/9/19 10:14 PM,12/10/19 11:44 AM,Morning,"Vijayawada, India",Female,10,5
+c1xa2@stjohns.edu,experiment,Reading,#N/A,1,#N/A,#N/A,1802,#N/A,Mon 9th Dec 2019 10:15pm,12/9/19 10:15 PM,12/10/19 11:45 AM,Morning,"Vijayawada, India",Female,10,#N/A
+c1xab1@stjohns.edu,experiment,Reading,11,1,24,603,1802,351,Mon 9th Dec 2019 10:15pm,12/9/19 10:15 PM,12/10/19 11:45 AM,Morning,"Vijayawada, India",Male,10,13
+c1xag16@stjohns.edu,experiment,Reading,4,1,12,602,1802,602,Mon 9th Dec 2019 10:17pm,12/9/19 10:17 PM,12/10/19 11:47 AM,Morning,"Vijayawada, India",Female,10,8
+c1xag17@stjohns.edu,experiment,Reading,14,1,18,603,1802,602,Mon 9th Dec 2019 10:17pm,12/9/19 10:17 PM,12/10/19 11:47 AM,Morning,"Vijayawada, India",Female,10,4
+c1xag1@stjohns.edu,experiment,Reading,3,1,12,602,1802,602,Mon 9th Dec 2019 10:24pm,12/9/19 10:24 PM,12/10/19 11:54 AM,Morning,"Vijayawada, India",Female,10,9
+c1xab5@stjohns.edu,experiment,Reading,13,1,14,601,1399,601,Mon 9th Dec 2019 10:27pm,12/9/19 10:27 PM,12/10/19 11:57 AM,Morning,"Vijayawada, India",Male,10,1
+c1xab7@stjohns.edu,experiment,Reading,10,1,15,601,1496,551,Mon 9th Dec 2019 10:27pm,12/9/19 10:27 PM,12/10/19 11:57 AM,Morning,"Vijayawada, India",Male,10,5
+c1xab8@stjohns.edu,experiment,Reading,5,1,15,601,1026,602,Mon 9th Dec 2019 10:27pm,12/9/19 10:27 PM,12/10/19 11:57 AM,Morning,"Vijayawada, India",Male,10,10
+c1xag15@stjohns.edu,experiment,Reading,6,0,21,603,0,484,Mon 9th Dec 2019 10:27pm,12/9/19 10:27 PM,12/10/19 11:57 AM,Morning,"Vijayawada, India",Female,10,15
+c1xab13@stjohns.edu,experiment,Reading,15,1,15,602,1631,602,Mon 9th Dec 2019 10:28pm,12/9/19 10:28 PM,12/10/19 11:58 AM,Morning,"Vijayawada, India",Male,10,0
+c1xab3@stjohns.edu,experiment,Reading,12,1,21,601,1617,602,Mon 9th Dec 2019 10:28pm,12/9/19 10:28 PM,12/10/19 11:58 AM,Morning,"Vijayawada, India",Male,10,9
+cxag7@stjohns.edu,experiment,Reading,#N/A,1,#N/A,#N/A,1802,#N/A,Mon 9th Dec 2019 10:28pm,12/9/19 10:28 PM,12/10/19 11:58 AM,Morning,"Vijayawada, India",Female,10,#N/A
+c1xab4@stjohns.edu,experiment,Reading,7,1,21,601,1673,579,Mon 9th Dec 2019 10:29pm,12/9/19 10:29 PM,12/10/19 11:59 AM,Morning,"Vijayawada, India",Male,10,14
+c1xab2@stjohns.edu,experiment,Reading,8,1,18,602,950,603,Mon 9th Dec 2019 10:30pm,12/9/19 10:30 PM,12/10/19 12:00 PM,Afternoon,"Vijayawada, India",Male,10,10
+c1xab12@stjohns.edu,experiment,Reading,14,0,11,602,503,603,Mon 9th Dec 2019 10:33pm,12/9/19 10:33 PM,12/10/19 12:03 PM,Afternoon,"Vijayawada, India",Male,10,-3
+c1xab15@stjohns.edu,experiment,Reading,9,1,12,602,1801,602,Mon 9th Dec 2019 10:36pm,12/9/19 10:36 PM,12/10/19 12:06 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xab9@stjohns.edu,experiment,Gaming,15,1,12,602,1801,603,Mon 9th Dec 2019 10:42pm,12/9/19 10:42 PM,12/10/19 12:12 PM,Afternoon,"Vijayawada, India",Male,10,-3
+c2x27@stjohns.edu,experiment,Music,#N/A,1,#N/A,#N/A,1802,#N/A,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",,10,#N/A
+c2xg26@stjohns.edu,experiment,Music,10,1,9,602,1802,602,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,-1
+c2xg28@stjohns.edu,experiment,Music,6,1,8,601,1802,601,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,2
+c2xg29@stjohns.edu,experiment,Music,17,1,20,602,1802,603,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,3
+c2xg30@stjohns.edu,experiment,Music,12,1,12,602,1803,603,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,0
+c2xg34@stjohns.edu,experiment,Music,12,1,22,601,1801,601,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,10
+c2xg36@stjohns.edu,experiment,Music,13,1,14,602,1802,601,Mon 9th Dec 2019 10:44pm,12/9/19 10:44 PM,12/10/19 12:14 PM,Afternoon,"Vijayawada, India",Female,10,1
+c2xg33@stjohns.edu,experiment,Music,19,1,14,601,1801,601,Mon 9th Dec 2019 10:45pm,12/9/19 10:45 PM,12/10/19 12:15 PM,Afternoon,"Vijayawada, India",Female,10,-5
+c2xg35@stjohns.edu,experiment,Music,11,1,#N/A,603,1802,#N/A,Mon 9th Dec 2019 10:45pm,12/9/19 10:45 PM,12/10/19 12:15 PM,Afternoon,"Vijayawada, India",Female,10,#N/A
+c2xg31@stjohns.edu,experiment,Music,10,1,12,601,1802,601,Mon 9th Dec 2019 10:47pm,12/9/19 10:47 PM,12/10/19 12:17 PM,Afternoon,"Vijayawada, India",Female,10,2
+c1xab10@stjohns.edu,experiment,Reading,10,1,13,602,1804,602,Mon 9th Dec 2019 10:54pm,12/9/19 10:54 PM,12/10/19 12:24 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xab11@stjohns.edu,experiment,Reading,11,1,21,602,1732,536,Mon 9th Dec 2019 11:01pm,12/9/19 11:01 PM,12/10/19 12:31 PM,Afternoon,"Vijayawada, India",Male,10,10
+c1xab17@stjohns.edu,experiment,Reading,18,1,14,602,1569,602,Mon 9th Dec 2019 11:04pm,12/9/19 11:04 PM,12/10/19 12:34 PM,Afternoon,"Vijayawada, India",Male,10,-4
+c1xab19@stjohns.edu,experiment,Reading,24,1,27,603,1469,381,Mon 9th Dec 2019 11:06pm,12/9/19 11:06 PM,12/10/19 12:36 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xab18@stjohns.edu,experiment,Reading,19,1,12,542,1491,482,Mon 9th Dec 2019 11:08pm,12/9/19 11:08 PM,12/10/19 12:38 PM,Afternoon,"Vijayawada, India",Male,10,-7
+c1xab14@stjohns.edu,experiment,Reading,16,1,10,577,1266,516,Mon 9th Dec 2019 11:09pm,12/9/19 11:09 PM,12/10/19 12:39 PM,Afternoon,"Vijayawada, India",Male,10,-6
+c1xab16@stjohns.edu,experiment,Reading,13,1,19,602,1434,542,Mon 9th Dec 2019 11:09pm,12/9/19 11:09 PM,12/10/19 12:39 PM,Afternoon,"Vijayawada, India",Male,10,6
+c1xcg1@stjohns.edu,experiment,Reading,6,1,12,603,1801,593,Mon 9th Dec 2019 11:42pm,12/9/19 11:42 PM,12/10/19 1:12 PM,Afternoon,"Vijayawada, India",Female,10,6
+c1xcg15@stjohns.edu,experiment,Reading,10,1,15,603,1802,602,Mon 9th Dec 2019 11:42pm,12/9/19 11:42 PM,12/10/19 1:12 PM,Afternoon,"Vijayawada, India",Female,10,5
+c1xcg19@stjohns.edu,experiment,Reading,11,1,14,602,1802,602,Mon 9th Dec 2019 11:42pm,12/9/19 11:42 PM,12/10/19 1:12 PM,Afternoon,"Vijayawada, India",Female,10,3
+c1xcg6@stjohns.edu,experiment,Reading,20,1,23,601,1802,524,Mon 9th Dec 2019 11:42pm,12/9/19 11:42 PM,12/10/19 1:12 PM,Afternoon,"Vijayawada, India",Female,10,3
+c1xcg2@stjohns.edu,experiment,Reading,11,1,17,603,1803,587,Mon 9th Dec 2019 11:43pm,12/9/19 11:43 PM,12/10/19 1:13 PM,Afternoon,"Vijayawada, India",Female,10,6
+c1xcg10@stjohns.ed,experiment,Reading,12,1,8,602,1576,602,Mon 9th Dec 2019 11:45pm,12/9/19 11:45 PM,12/10/19 1:15 PM,Afternoon,"Vijayawada, India",Female,10,-4
+c1xcg5@stjohns.edu,experiment,Reading,7,1,5,601,1802,601,Mon 9th Dec 2019 11:45pm,12/9/19 11:45 PM,12/10/19 1:15 PM,Afternoon,"Vijayawada, India",Female,10,-2
+c1xcg9@stjohns.edu,experiment,Reading,9,1,16,603,1611,598,Mon 9th Dec 2019 11:45pm,12/9/19 11:45 PM,12/10/19 1:15 PM,Afternoon,"Vijayawada, India",Female,10,7
+c1xcg11@stjohns.edu,experiment,Reading,8,1,15,602,1802,602,Mon 9th Dec 2019 11:47pm,12/9/19 11:47 PM,12/10/19 1:17 PM,Afternoon,"Vijayawada, India",Female,10,7
+c1xcg14@stjohns.edu,experiment,Reading,7,1,12,602,1803,603,Mon 9th Dec 2019 11:47pm,12/9/19 11:47 PM,12/10/19 1:17 PM,Afternoon,"Vijayawada, India",Female,10,5
+c1xcg13@stjohns.edu,experiment,Reading,17,1,16,599,1802,572,Mon 9th Dec 2019 11:48pm,12/9/19 11:48 PM,12/10/19 1:18 PM,Afternoon,"Vijayawada, India",Female,10,-1
+c1xcg4@stjohns.edu,experiment,Reading,15,1,13,602,1802,602,Mon 9th Dec 2019 11:48pm,12/9/19 11:48 PM,12/10/19 1:18 PM,Afternoon,"Vijayawada, India",Female,10,-2
+c1xcg12@stjohns.edu,experiment,Reading,6,1,14,602,1802,602,Mon 9th Dec 2019 11:49pm,12/9/19 11:49 PM,12/10/19 1:19 PM,Afternoon,"Vijayawada, India",Female,10,8
+c1xcg3@stjohns.edu,experiment,Reading,10,1,14,601,1803,602,Mon 9th Dec 2019 11:49pm,12/9/19 11:49 PM,12/10/19 1:19 PM,Afternoon,"Vijayawada, India",Female,10,4
+c1xcg17@stjohns.edu,experiment,Reading,12,1,5,602,1801,603,Mon 9th Dec 2019 11:50pm,12/9/19 11:50 PM,12/10/19 1:20 PM,Afternoon,"Vijayawada, India",Female,10,-7
+c1xcg18@stjohns.edu,experiment,Reading,7,1,16,601,1802,602,Mon 9th Dec 2019 11:50pm,12/9/19 11:50 PM,12/10/19 1:20 PM,Afternoon,"Vijayawada, India",Female,10,9
+c1xcg20@stjohns.edu,experiment,Reading,14,1,10,562,1802,314,Mon 9th Dec 2019 11:50pm,12/9/19 11:50 PM,12/10/19 1:20 PM,Afternoon,"Vijayawada, India",Female,10,-4
+c1xcg7@stjohns.edu,experiment,Reading,16,1,12,602,1824,535,Mon 9th Dec 2019 11:50pm,12/9/19 11:50 PM,12/10/19 1:20 PM,Afternoon,"Vijayawada, India",Female,10,-4
+c1xcg8@stjohns.edu,experiment,Reading,0,1,18,0,1802,513,Mon 9th Dec 2019 11:51pm,12/9/19 11:51 PM,12/10/19 1:21 PM,Afternoon,"Vijayawada, India",Female,10,18
+c1xcb2@stjohns.edu,experiment,Reading,10,1,19,602,1803,216,Mon 9th Dec 2019 11:55pm,12/9/19 11:55 PM,12/10/19 1:25 PM,Afternoon,"Vijayawada, India",Male,10,9
+c1xcb6@stjohns.edu,experiment,Reading,13,1,16,602,1803,602,Mon 9th Dec 2019 11:55pm,12/9/19 11:55 PM,12/10/19 1:25 PM,Afternoon,"Vijayawada, India",Male,10,3
+c1xcb8@stjohns.edu,experiment,Reading,9,1,16,603,1801,572,Mon 9th Dec 2019 11:56pm,12/9/19 11:56 PM,12/10/19 1:26 PM,Afternoon,"Vijayawada, India",Male,10,7
+c19ab1@stjohns.edu,experiment,Gaming,3,1,12,601,1893,601,Mon 9th Dec 2019 12:01am,12/9/19 12:01 AM,12/9/19 1:31 PM,Afternoon,"Vijayawada, India",Male,9,9
+c19ab9@stjohns.edu,experiment,Gaming,7,1,16,603,1802,603,Mon 9th Dec 2019 12:01am,12/9/19 12:01 AM,12/9/19 1:31 PM,Afternoon,"Vijayawada, India",Male,9,9
+c19b4@stjohns.edu,experiment,Gaming,16,0,#N/A,545,8,#N/A,Mon 9th Dec 2019 12:02am,12/9/19 12:02 AM,12/9/19 1:32 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c19b15@st.jhonsedu,experiment,Gaming,13,1,11,566,1801,290,Mon 9th Dec 2019 12:05am,12/9/19 12:05 AM,12/9/19 1:35 PM,Afternoon,"Vijayawada, India",Male,9,-2
+c19ab11@stjohns.edu,experiment,Gaming,18,1,0,557,1802,0,Mon 9th Dec 2019 12:13am,12/9/19 12:13 AM,12/9/19 1:43 PM,Afternoon,"Vijayawada, India",Male,9,-18
+c19ab6@stjohns.edu,experiment,Gaming,13,1,19,603,1801,369,Mon 9th Dec 2019 12:14am,12/9/19 12:14 AM,12/9/19 1:44 PM,Afternoon,"Vijayawada, India",Male,9,6
+c19ab7@stjohns.edu,experiment,Gaming,17,0,#N/A,602,0,#N/A,Mon 9th Dec 2019 12:18am,12/9/19 12:18 AM,12/9/19 1:48 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c19ab8@stjohns.edu,experiment,Gaming,10,1,#N/A,602,1802,#N/A,Mon 9th Dec 2019 12:18am,12/9/19 12:18 AM,12/9/19 1:48 PM,Afternoon,"Vijayawada, India",Male,9,#N/A
+c19ab13@stjohns.edu,experiment,Gaming,8,1,22,603,1801,420,Mon 9th Dec 2019 12:20am,12/9/19 12:20 AM,12/9/19 1:50 PM,Afternoon,"Vijayawada, India",Male,9,14
+c19ab12@stjohns.edu,experiment,Gaming,15,0,13,583,25,410,Mon 9th Dec 2019 12:34am,12/9/19 12:34 AM,12/9/19 2:04 PM,Afternoon,"Vijayawada, India",Male,9,-2
+annajun2004@gmail.com,pilot,Music,8,,#N/A,212,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A
+beastvik789@gmail.com,Pre-Pilot,Music,DNP,,29,DNP,DNP,601,#N/A,#N/A,#N/A,#N/A,CA,Male,,#VALUE!
+c110ag7@stjohns.edu,experiment,Reading,5,,#N/A,603,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,10,#N/A
+c19ab4@stjohns.edu,experiment,Gaming,9,,14,601,#N/A,199,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,5
+c19ag11@stjohns.edu,experiment,Gaming,4,,18,602,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,14
+c19ag13@stjohns.edu,experiment,Gaming,7,,#N/A,603,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,#N/A
+c19ag20@stjohns.edu,experiment,Gaming,12,,15,603,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,3
+c19agc2@stjohns.edu,experiment,Gaming,11,,#N/A,482,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,#N/A
+c19b13@stjohns.edu,experiment,Gaming,17,,#N/A,315,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c19bb11@stjohns.edu,experiment,Gaming,#N/A,,5,#N/A,#N/A,604,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c19bb14@stjohns.edu,experiment,Gaming,16,,#N/A,602,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c19bb151@stjohns.edu,experiment,Music,7,,#N/A,603,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c19bb19@stjhons.edu,experiment,Gaming,12,,19,294,#N/A,502,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,7
+c19bb2@stjohns.edu,experiment,Gaming,4,,#N/A,603,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c19bg17@stjohns.edu,experiment,Gaming,1,,6,603,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,5
+c19bg3@stjohn.edu,experiment,Gaming,#N/A,,11,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,#N/A
+c19c21@stjohns.edu,experiment,Gaming,#N/A,,15,#N/A,#N/A,525,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,#N/A
+c19cg@stjohns.edu,experiment,Gaming,#N/A,,12,#N/A,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,#N/A
+c19dg3@stjohns.edu,experiment,Music,12,,19,604,#N/A,496,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,9,7
+c1ag4@stjohns.edu,experiment,Gaming,#N/A,,6,#N/A,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,,#N/A
+c1xag2@stjohns.edu,experiment,Reading,7,,13,602,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,10,6
+c1xbb13@stjohns.edu,experiment,Reading,11,,#N/A,601,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c1xbb19@stjohns.edu,experiment,Reading,6,,8,603,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,2
+c1xbb8@stjohns.ed,experiment,Reading,9,,#N/A,602,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c1xdg23@stjohns.edu,experiment,Reading,6,,22,601,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,10,16
+c210b6@stjhons.edu,experiment,Music,6,,#N/A,602,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c2g21@stjohns.edu,experiment,Music,#N/A,,14,#N/A,#N/A,601,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,,#N/A
+c2ix10@stjohns.edu,experiment,Music,#N/A,,11,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",,9,#N/A
+c2ix3@stjohns.edu,experiment,Music,#N/A,,7,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",,9,#N/A
+c2ixb@stjohns.edu,experiment,Music,#N/A,,15,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+c2x352@stjohns.edu,experiment,Music,#N/A,,16,#N/A,#N/A,601,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",,10,#N/A
+c2xb@stjohns.edu,experiment,Music,#N/A,,19,#N/A,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c2xb10@st.jhons.edu,experiment,Music,#N/A,,9,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c2xb13@stjohns.edu,experiment,Music,#N/A,,14,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,#N/A
+c2xb22@stjohns.edu,experiment,Music,8,,12,603,#N/A,603,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,4
+c2xb9@st.johns.edu,experiment,Music,6,,17,601,#N/A,601,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,10,11
+c2xg27@stjohns.edu,experiment,Music,5,,0,602,#N/A,0,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Female,10,-5
+chinnasrinu30@gmail.com,experiment,Reading,6,,#N/A,602,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A
+cixbb13@stjohns.edu,experiment,Reading,#N/A,,13,#N/A,#N/A,602,#N/A,#N/A,#N/A,#N/A,"Vijayawada, India",Male,9,#N/A
+emmanuelmca2008@gmail.com,experiment,Music,0,,#N/A,89,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A
+nathandean22@mittymonarch.com,pilot,Reading,16,,#N/A,602,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A
