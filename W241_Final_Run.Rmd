@@ -1,0 +1,193 @@
+---
+title: "Appendix F - Production Run Analysis for W241 Project"
+author: "Venky, Jason, Christine"
+output:
+  rmarkdown::github_document
+---
+
+# 1. Setup 
+
+```{r, message=FALSE}
+library(data.table)
+library(stargazer)
+library(dplyr)
+library(lmtest)
+library(sandwich)
+```
+
+
+# 2. Analysis of Difference-in-Difference 
+```{r}
+din <- fread('./Post Experiment Results.csv', header = TRUE)
+head(din)
+```
+
+```{r}
+d <- din[which(din$`Study Phase` == 'experiment' & din$`Treatment Outcome (Participated = 1, DNP = 0)` == 1 & din$Score_diff != 'NA' & din$Location == 'Vijayawada, India')]
+d <- d[, Treated := as.numeric(`Test Description` == "Gaming")]
+d <- d[, Higher_grade := as.numeric(`Grade (or Age)` == 10)]
+head(d)
+```
+
+```{r}
+#Stargazer model with Robust SE
+sgm_rse <-function(mod_name) {
+  stargazer(
+  mod_name, 
+  type = 'text',
+  se=list(sqrt(diag(vcovHC(mod_name))))
+  )
+} 
+```
+
+## 2.1 Simple model with treatment only
+```{r}
+dind_model_treat_only <- lm(Score_diff ~ Treated, d)
+sgm_rse(dind_model_treat_only)
+```
+
+## 2.2 Model with treatment and covariates
+
+```{r}
+dind_model_with_covar <- lm(Score_diff ~ Treated + Gender + Higher_grade + `Time of Day Cat`, d)
+sgm_rse(dind_model_with_covar)
+```
+
+## 2.3 Comparison of the base model for D-in-D with covariates
+
+```{r}
+stargazer(
+  list(dind_model_treat_only, dind_model_with_covar),
+  type = 'text',
+  se=list(sqrt(diag(vcovHC(dind_model_treat_only))), sqrt(diag(vcovHC(dind_model_with_covar))))
+  )
+```
+
+## 2.4 Simple model with Test Description
+```{r}
+dind_model_exp <- lm(Score_diff ~ `Test Description`, d)
+sgm_rse(dind_model_exp)
+```
+
+## 2.5 With covariates
+```{r}
+dind_model_exp_with_covar <- lm(Score_diff ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat` , d)
+sgm_rse(dind_model_exp_with_covar)
+```
+
+## 2.6 Comparison of the base model for D-in-D with covariates
+
+```{r}
+stargazer(
+  list(dind_model_exp, dind_model_exp_with_covar),
+  type = 'text',
+  se=list(sqrt(diag(vcovHC(dind_model_exp))), sqrt(diag(vcovHC(dind_model_exp_with_covar))))
+  )
+```
+
+
+# 3. Analysis of post-test results only
+
+## 3.1 Treatment only
+
+```{r}
+post_model_treat_only <- lm(`Post Score` ~ Treated, d)
+sgm_rse(post_model_treat_only)
+```
+
+## 3.2 Treatment with covariates
+
+```{r}
+post_model_with_covar <- lm(`Post Score` ~ Treated + Gender + Higher_grade + `Time of Day Cat`, d)
+sgm_rse(post_model_with_covar)
+```
+
+
+## 3.2 Treatment with Reading and Music
+
+```{r}
+post_model_exp <- lm(`Post Score` ~ `Test Description`, d)
+sgm_rse(post_model_exp)
+```
+
+```{r}
+post_model_exp_with_covar <- lm(`Post Score` ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat`, d)
+sgm_rse(post_model_exp_with_covar)
+```
+
+
+```{r}
+pre_model_exp <- lm(`Pre Score` ~ `Test Description`, d)
+sgm_rse(pre_model_exp)
+```
+
+
+```{r}
+pre_model_exp_with_covar <- lm(`Pre Score` ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat`, d)
+sgm_rse(pre_model_exp_with_covar)
+```
+
+# 4. Analysis of pre-test results only
+
+## 4.1 Treatment only
+
+```{r}
+pre_model_treat_only <- lm(`Pre Score` ~ Treated, d)
+sgm_rse(pre_model_treat_only)
+```
+
+## 4.2 Treatment with covariates
+
+```{r}
+pre_model_with_covar <- lm(`Pre Score` ~ Treated + Gender + Higher_grade + `Time of Day Cat`, d)
+sgm_rse(pre_model_with_covar)
+```
+
+## 5 Summary of pre and post models
+```{r}
+stargazer(
+  list(pre_model_treat_only, pre_model_with_covar, post_model_treat_only, post_model_with_covar),
+  type = 'text',
+  se=list(sqrt(diag(vcovHC(pre_model_treat_only))), sqrt(diag(vcovHC(pre_model_with_covar))),
+          sqrt(diag(vcovHC(post_model_treat_only))), sqrt(diag(vcovHC(post_model_with_covar)))
+          )
+  )
+```
+
+## 5.2 Average of pre, post and d-in-d scores
+
+```{r}
+nrow(d[d$`Test Description` == "Gaming"])
+nrow(d[d$`Test Description` == "Reading"])
+nrow(d[d$`Test Description` == "Music"])
+```
+
+```{r}
+mean(d[`Test Description` == "Gaming",as.numeric(`Pre Score`)])
+mean(d[`Test Description` == "Gaming",as.numeric(`Post Score`)])
+```
+
+# 6. Comparison against Music only and Reading only
+
+```{r}
+#Gaming and Music only
+d_gm = d[d$`Test Description` == "Gaming" | d$`Test Description` == "Music"]
+nrow(d_gm)
+#Gaming and Reading only
+d_gr = d[d$`Test Description` == "Gaming" | d$`Test Description` == "Reading"]
+nrow(d_gr)
+#Music and Reading only
+d_mr = d[d$`Test Description` == "Music" | d$`Test Description` == "Reading"]
+nrow(d_mr)
+```
+
+```{r}
+dind_model_gaming_music <- lm(Score_diff ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat` , d_gm)
+dind_model_gaming_reading <- lm(Score_diff ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat` , d_gr)
+dind_model_music_reading <- lm(Score_diff ~ `Test Description` + Gender + Higher_grade + `Time of Day Cat` , d_mr)
+stargazer(
+  list(dind_model_gaming_music, dind_model_gaming_reading, dind_model_music_reading),
+  type = 'text',
+  se=list(sqrt(diag(vcovHC(dind_model_gaming_music))), sqrt(diag(vcovHC(dind_model_gaming_reading))), sqrt(diag(vcovHC(dind_model_music_reading))))
+  )
+```

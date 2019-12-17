@@ -1,0 +1,305 @@
+---
+title: "Appendix E: Trial Study W241 Project"
+author: "Venky, Jason, Christine"
+output:
+  rmarkdown::github_document
+---
+
+# 1. Setup 
+
+```{r, message=FALSE}
+library(data.table)
+library(stargazer)
+library(dplyr)
+library(lmtest)
+library(sandwich)
+```
+
+
+# 2. ATE
+```{r}
+din <- fread('./Final Project v1 - Sheet1.csv', header = TRUE)
+d <- din[, treat:= as.numeric(Treatment == "Gaming")]
+d <- d[0:48]
+nrow(d)
+head(d)
+```
+
+```{r}
+tg = d[Treatment == "Gaming"][, Score_diff]
+tg
+treat_avg = mean (tg)
+treat_avg
+```
+
+```{r}
+cg = d[Treatment != "Gaming"][, Score_diff]
+cg
+control_avg = mean (cg)
+control_avg
+```
+
+```{r}
+ATE_pilot = treat_avg - control_avg
+ATE_pilot
+```
+
+## Taking only good data into account
+
+```{r}
+d_good = d[d$Compliance == 1 & d$Special_comments == ""]
+nrow(d_good)
+```
+
+```{r}
+ATE_good = mean(d_good[Treatment == "Gaming"][, Score_diff]) - mean(d_good[Treatment != "Gaming"][, Score_diff])
+ATE_good
+```
+
+
+```{r}
+#Randomization inference functions from PS2
+est_ate <- function(outcome, treat) { 
+  mean(outcome[treat==1]) - mean(outcome[treat==0])
+} 
+
+outcome = d[,Score_diff]
+treat = d[,treat]
+
+outcome_good = d_good[,Score_diff]
+treat_good = d_good[,treat]
+  
+observed_ate = est_ate(outcome, treat )
+observed_ate_good = est_ate(outcome_good, treat_good)
+```
+
+```{r}
+rand_experiment <- function(potential_outcome, treat_vec) {
+  po_control <- potential_outcome
+  #Looking for zero effect
+  po_treatment <- po_control 
+  treatment <- sample(treat_vec)
+  outcomes <- po_treatment * treatment + po_control * (1 - treatment)
+  ate <- est_ate(outcomes, treatment)
+  return(ate)
+}
+
+dn_under_sharp_null <- replicate(10000, rand_experiment(outcome, treat))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate, col = "blue")
+```
+
+```{r}
+p_value <- mean(observed_ate > dn_under_sharp_null)
+p_value
+sd(dn_under_sharp_null)
+```
+
+```{r}
+dn_under_sharp_null_good <- replicate(10000, rand_experiment(outcome_good, treat_good))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null_good), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate_good, col = "blue")
+```
+
+```{r}
+p_value_good <- mean(observed_ate_good > dn_under_sharp_null_good)
+p_value_good
+sd(dn_under_sharp_null_good)
+```
+
+# CATE
+
+## Grades
+```{r}
+nrow(d[d$Grade == 8])
+nrow(d[d$Grade == 9])
+nrow(d[d$Grade == 10])
+nrow(d[d$Grade == 11])
+```
+
+
+# Grade with all values
+
+```{r}
+get_cate_grade <-function(d,val) {
+  CATE = mean(d[Treatment == "Gaming" & Grade == val][, Score_diff]) - mean(d[Treatment != "Gaming" & Grade == val][, Score_diff])
+  return(CATE)
+}
+get_cate_grade(d,9)
+get_cate_grade(d,10)
+get_cate_grade(d,11)
+get_cate_grade(d,12)
+```
+
+# Grade with good values only
+```{r}
+get_cate_grade <-function(d,val) {
+  CATE = mean(d[Treatment == "Gaming" & Grade == val][, Score_diff]) - mean(d[Treatment != "Gaming" & Grade == val][, Score_diff])
+  return(CATE)
+}
+get_cate_grade(d_good,9)
+get_cate_grade(d_good,10)
+get_cate_grade(d_good,11)
+get_cate_grade(d_good,12)
+```
+
+## RI only for grade 10
+```{r}
+d_grad10 <- d[d$Grade == 10]
+nrow(d_grad10)
+```
+
+```{r}
+outcome = d_grad10[,Score_diff]
+treat = d_grad10[,treat]
+observed_ate = est_ate(outcome, treat)
+observed_ate
+
+dn_under_sharp_null <- replicate(10000, rand_experiment(outcome, treat))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate, col = "blue")
+```
+
+```{r}
+p_value <- mean(observed_ate > dn_under_sharp_null)
+p_value
+sd(dn_under_sharp_null)
+```
+
+## Took afternoon test
+
+```{r}
+
+nrow(d[took_afternoon_test == 1])
+
+get_cate_noon_test <-function(d,val) {
+  CATE = mean(d[Treatment == "Gaming" & took_afternoon_test == val][, Score_diff]) - mean(d[Treatment != "Gaming" & took_afternoon_test == val][, Score_diff])
+  return(CATE)
+}
+get_cate_noon_test(d,1)
+get_cate_noon_test(d_good,1)
+```
+
+
+## RI for noon test
+```{r}
+d_noon_test <- d[d$took_afternoon_test == 1]
+nrow(d_noon_test)
+```
+
+```{r}
+outcome = d_noon_test[,Score_diff]
+treat = d_noon_test[,treat]
+observed_ate = est_ate(outcome, treat)
+
+dn_under_sharp_null <- replicate(10000, rand_experiment(outcome, treat))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate, col = "blue")
+```
+
+```{r}
+p_value <- mean(observed_ate > dn_under_sharp_null)
+p_value
+sd(dn_under_sharp_null)
+```
+
+# Has Gaming Console
+
+```{r}
+nrow(d[owns_gaming_console == 1])
+
+get_cate_owns_gm_cons <-function(d,val) {
+  CATE = mean(d[Treatment == "Gaming" & owns_gaming_console == val][, Score_diff]) - mean(d[Treatment != "Gaming" & owns_gaming_console == val][, Score_diff])
+  return(CATE)
+}
+get_cate_owns_gm_cons(d,1)
+get_cate_owns_gm_cons(d_good,1)
+```
+
+
+## RI for Gaming Console
+```{r}
+d_owns_gc <- d[d$owns_gaming_console == 1]
+nrow(d_owns_gc)
+```
+
+```{r}
+outcome = d_owns_gc[,Score_diff]
+treat = d_owns_gc[,treat]
+observed_ate = est_ate(outcome, treat)
+
+dn_under_sharp_null <- replicate(10000, rand_experiment(outcome, treat))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate, col = "blue")
+```
+
+```{r}
+p_value <- mean(observed_ate > dn_under_sharp_null)
+p_value
+sd(dn_under_sharp_null)
+```
+
+# Male
+
+```{r}
+nrow(d[Male == 1])
+
+get_cate_male <-function(d,val) {
+  CATE = mean(d[Treatment == "Gaming" & Male == val][, Score_diff]) - mean(d[Treatment != "Gaming" & Male == val][, Score_diff])
+  return(CATE)
+}
+get_cate_male(d,1)
+get_cate_male(d_good,1)
+```
+
+
+## RI for Gaming Console
+```{r}
+d_male <- d[d$Male == 1]
+nrow(d_male)
+```
+
+```{r}
+outcome = d_male[,Score_diff]
+treat = d_male[,treat]
+observed_ate = est_ate(outcome, treat)
+
+dn_under_sharp_null <- replicate(10000, rand_experiment(outcome, treat))
+source("http://ischool.berkeley.edu/~d.alex.hughes/code/pubPlot.R")
+plot(density(dn_under_sharp_null), 
+     main = "Density of Outcomes", 
+     lwd = 4, col="red", 
+     ylim=c(0,0.2),
+     xlim=c(-10,10))
+abline(v = observed_ate, col = "blue")
+```
+```{r}
+p_value <- mean(observed_ate > dn_under_sharp_null)
+p_value
+sd(dn_under_sharp_null)
+```
